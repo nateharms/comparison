@@ -1,0 +1,1368 @@
+CH2	triplet[CH2]
+CH2(S)	singlet[CH2]
+C2H2	C#C
+
+h	[H]
+h2	[H][H]
+o	[O]
+o2	[O][O]
+oh	[OH]
+oh*	excited[OH]
+h2o	O
+n2	N#N
+ho2	[O]O
+h2o2	OO
+ar	[Ar]
+co	[C-]#[O+]
+co2	O=C=O
+ch3oh	CO
+ch4	C
+ch3	[CH3]
+c	[C]
+ch	[CH]
+c2h6	CC
+c2h5	[CH2]C
+c2h4	C=C
+he	[He]
+c3h8	CCC
+nc3h7	[CH2]CC
+ic3h7	C[CH]C
+ch2oh	[CH2]O
+ch2(s)	[CH2]
+c3h6	C=CC
+ch2o	C=O
+hco	[CH]=O
+ch3o	C[O]
+c3h5-a	[CH2]C=C
+c3h5-t	C=[C]C
+c3h5-s	[CH]=CC
+c3h4-a	C=C=C
+c3h4-p	C#CC
+c2h3	[CH]=C
+c3h3	C#C[CH2]
+c2h2	C#C
+ch2	[CH2]
+c2h	[C]#C
+ch2co	C=C=O
+nc3h7o2	CCCO[O]
+ch3co	C[C]=O
+hcco	[CH]=C=O
+ch2cho	[CH2]C=O
+ac3h5co	C=CC[C]=O
+nc3h7o2h	CCCOO
+ch3cho	CC=O
+c3h6ooh1-2	C[CH]COO
+c4h8cho-2	C[CH]CCC=O
+c2h5o	CC[O]
+ac3h5cho	C=CCC=O
+c2h5oh	CCO
+ch3o2	CO[O]
+c6h12-1	C=CCCCC
+sc3h5co	CC=C[C]=O
+c5h9o1-4	C=CCC(C)[O]
+ch3o2h	COO
+sc2h4oh	C[CH]O
+pc2h4oh	[CH2]CO
+c2h3chcho	[CH2]C=CC=O
+c4h8cho-3	CC[CH]CC=O
+c6h111-5	C=CCC[CH]C
+c6h111-3	[CH2]C=CCCC
+c6h111-6	[CH2]CCCC=C
+c6h111-4	C=CC[CH]CC
+sc3h5cho	CC=CC=O
+c6h12ooh2-1	[CH2]C(CCCC)OO
+c6h12ooh1-2	CCCC[CH]COO
+c6h101-5	C=CCCC=C
+c6h101-4	C=CCC=CC
+nc4h9cho	CCCCC=O
+c4h8-1	C=CCC
+c6h111o2h-5	C=CCCC(C)OO
+c6h11o1-4	C=CCC([O])CC
+c6h13-2	C[CH]CCCC
+c5h10cho-4	CCC[CH]CC=O
+c6h12-2	CC=CCCC
+c6h101-3	C=CC=CCC
+c2h4o1-2	C1CO1
+c6h111o2h-6	C=CCCCCOO
+nc3h7co	CCC[C]=O
+c6h13o2-2	CCCCC(C)O[O]
+c6h13o2-1	CCCCCCO[O]
+c5h9o2-4	CC=CC(C)[O]
+c3h6cho-2	C[CH]CC=O
+c6h111o2-6	C=CCCCCO[O]
+c6h111o2h-4	C=CCC(CC)OO
+c6h111o2-5	C=CCCC(C)O[O]
+c6h101ooh6-5	C=CCC[CH]COO
+c6h101ooh5-6	[CH2]C(CCC=C)OO
+c6h11o2-4	CC=CC([O])CC
+c7h13o2-4	CC=CC([O])CCC
+c6h101ooh5-4	C=CC[CH]C(C)OO
+c6h102ooh6-5	CC=CC[CH]COO
+nc4h9co	CCCC[C]=O
+c4h71-3	C=C[CH]C
+c4h71-4	[CH2]CC=C
+c6h101ooh4-5	C=CCC([CH]C)OO
+c6h112o2-6	CC=CCCCO[O]
+c6h102ooh5-6	[CH2]C(CC=CC)OO
+c5h10cho-3	CC[CH]CCC=O
+c4h71-2	C=[C]CC
+c4h71-1	[CH]=CCC
+sc4h9o2	CCC(C)O[O]
+pc4h9	[CH2]CCC
+c7h15-3	CC[CH]CCCC
+sc4h9	C[CH]CC
+c6h112-5	C[CH]CC=CC
+nc6h14	CCCCCC
+pc4h9o2	CCCCO[O]
+c6h12o1-2	CCCCC1CO1
+c8h15	C=CC[CH]CCCC
+nc5h11cho	CCCCCC=O
+c5h10-1	C=CCCC
+ch3oco	CO[C]=O
+c4h8ooh2-1	[CH2]C(CC)OO
+c4h8ooh1-2	CC[CH]COO
+c6h112-4	CC=C[CH]CC
+c6h112-6	[CH2]CCC=CC
+c6h12ooh2-3	CCC[CH]C(C)OO
+c6h12ooh3-2	C[CH]C(CCC)OO
+c4h7o1-4	C=CCC[O]
+c7h131-5	C=CCC[CH]CC
+c3h6cho-1	[CH2]CCC=O
+c3h2	[CH]=C=[CH]
+ic3h7o2	CC(C)O[O]
+ch2ocho	[CH2]OC=O
+c2h4o2h	[CH2]COO
+nc3h7o	CCC[O]
+c5h91-5	[CH2]CCC=C
+c2h5o2	CCO[O]
+c6h103ooh2-1	[CH2]C(C=CCC)OO
+c6h103ooh1-2	CCC=C[CH]COO
+c6h111o2-3	C=CC(CCC)O[O]
+c6h111o2-4	C=CCC(CC)O[O]
+c6h113o2-1	CCC=CCCO[O]
+c6h113o2-2	CCC=CC(C)O[O]
+c2h3o1-2	[CH]1CO1
+c6h101ooh3-4	C=CC([CH]CC)OO
+c6h101ooh4-3	C=C[CH]C(CC)OO
+c2h5cho	CCC=O
+c3h6o1-2	CC1CO1
+nc3h7cho	CCCC=O
+c6h13-3	CC[CH]CCC
+c2h5co	CC[C]=O
+ch3ocho	COC=O
+c2h3co	C=C[C]=O
+ic3h5co	C=C(C)[C]=O
+ic4h7o	C=C(C)C[O]
+ch3och2o	COC[O]
+c3h6coch3-2	C[CH]CC(C)=O
+c2h3cho	C=CC=O
+c5h11-2	C[CH]CCC
+c5h91-4	C=CC[CH]C
+ic3h7coch2	[CH2]C(=O)C(C)C
+sc4h9o	CCC(C)[O]
+ocho	[O]C=O
+c4h6	C=CC=C
+c4h8-2	CC=CC
+och2o2h	[O]COO
+c3h5o	C=CC[O]
+c4h72-2	C[C]=CC
+ic4h6oh	[CH2]C(=C)CO
+ch3och3	COC
+c3h6o1-3	C1COC1
+c2h5coch2	[CH2]C(=O)CC
+ch3coch2o	CC(=O)C[O]
+pc4h9o	CCCC[O]
+c4h10	CCCC
+ic4h9o	CC(C)C[O]
+hoch2oco	O=[C]OCO
+c5h11o-2	CCCC(C)[O]
+ic3h7o	CC(C)[O]
+hocho	O=CO
+och2ocho	[O]COC=O
+ch3chocho	CC([O])C=O
+dc6h12	C=CCC(C)C
+ic3h6coc2h3	[CH2]C(C)C(=O)C=C
+c4h6cho1-43	C=C[CH]CC=O
+c5h10-2	CC=CCC
+c7h132-6	C[CH]CCC=CC
+c4h7co1-4	C=CCC[C]=O
+c4h7o	C=CC(C)[O]
+c7h14-2	CC=CCCCC
+c4h7co1-1	CCC=C[C]=O
+ch3och2	[CH2]OC
+ic4h7	[CH2]C(=C)C
+ic5h9	[CH2]C(=C)CC
+c5h92-5	[CH2]CC=CC
+hccoh	C#CO
+nc5h12	CCCCC
+ch2ch2coch3	[CH2]CC(C)=O
+ch3co2	CC([O])=O
+ch3co3	CC(=O)O[O]
+hoch2o	[O]CO
+ch2ch2cho	[CH2]CC=O
+c5h11-1	[CH2]CCCC
+c5h91-3	[CH2]C=CCC
+pc2h4coc2h3	[CH2]CC(=O)C=C
+c7h131-3	[CH2]C=CCCCC
+c5h9o1-3	C=CC([O])CC
+ic3h7cho	CC(C)C=O
+ic4h10	CC(C)C
+c3h6ooh2-1	[CH2]C(C)OO
+ch3coch2	[CH2]C(C)=O
+ic4h9	[CH2]C(C)C
+c2h5coch3	CCC(C)=O
+ch3co3h	CC(=O)OO
+ic3h5cho	C=C(C)C=O
+ic4h8	C=C(C)C
+c6h12-3	CCC=CCC
+c7h14-1	C=CCCCCC
+ch3coch3	CC(C)=O
+nc5h11co	CCCCC[C]=O
+c7h132-7	[CH2]CCCC=CC
+c7h132-5	CC=CC[CH]CC
+c7h132-4	CC=C[CH]CCC
+c4h7cho1-4	C=CCCC=O
+tc3h6cho	C[C](C)C=O
+pc4h9o2h	CCCCOO
+sc4h9o2h	CCC(C)OO
+ic3h7o2h	CC(C)OO
+ic4h7oh	C=C(C)CO
+c7h14-3	CCC=CCCC
+c5h92-4	C[CH]C=CC
+c2h5o2h	CCOO
+c6h13-1	[CH2]CCCCC
+tc4h9	C[C](C)C
+c6h112o2-5	CC=CCC(C)O[O]
+c5h11-3	CC[CH]CC
+c8h16-1	C=CCCCCCC
+c4h7cho1-1	CCC=CC=O
+c6h101ooh3-5	C=CC(C[CH]C)OO
+c6h102ooh6-5o2	CC=CCC(COO)O[O]
+c6h113-1	[CH2]CC=CCC
+c7h131-4	C=CC[CH]CCC
+c7h131-6	C=CCCC[CH]C
+c7h131-7	[CH2]CCCCC=C
+o2cho	[O]OC=O
+cc5h11	C[CH]C(C)C
+c6h103ooh2-1o2	CCC=CC(CO[O])OO
+c4coc2h4p	[CH2]CC(=O)CCCC
+c6h102ooh5-6o2	CC=CCC(CO[O])OO
+ho2cho	O=COO
+c7h133-7	[CH2]CCC=CCC
+c7h133-6	C[CH]CC=CCC
+c7h133-1	[CH2]CC=CCCC
+c7h133-5	CC[CH]C=CCC
+ch3chco	CC=C=O
+c6h102-4	CC=CC=CC
+c6h101ooh5-6o2	C=CCCC(CO[O])OO
+ch3och2o2	COCO[O]
+c3h6ooh2-2	C[C](C)OO
+tc3h6oh	C[C](C)O
+o2c2h4oh	[O]OCCO
+c6h12ooh2-3o2	CCCC(O[O])C(C)OO
+nc5h11coc2h4p	[CH2]CC(=O)CCCCC
+c6h101ooh6-5o2	C=CCCC(COO)O[O]
+c3h6ooh2-1o2	CC(CO[O])OO
+c3h6ooh1-2o2	CC(COO)O[O]
+c6h112o2-1	CCCC=CCO[O]
+c6h12ooh1-2o2	CCCCC(COO)O[O]
+c6h12ooh3-2o2	CCCC(OO)C(C)O[O]
+nc3h7coch2	[CH2]C(=O)CCC
+nc4h9coch2	[CH2]C(=O)CCCC
+sc2h4coc2h3	C=CC(=O)[CH]C
+ch3coch2o2	CC(=O)CO[O]
+c6h101ooh3-4o2	C=CC(OO)C(CC)O[O]
+c2h5coc2h4p	[CH2]CC(=O)CC
+c2h5coc2h3	C=CC(=O)CC
+nc3h7coc2h4p	[CH2]CC(=O)CCC
+tc3h6ohcho	CC(C)(O)C=O
+tc3h6o2cho	CC(C)(C=O)O[O]
+c6h112o2-4	CC=CC(CC)O[O]
+c6h101ooh4-5o2	C=CCC(OO)C(C)O[O]
+c6h101ooh5-4o2	C=CCC(O[O])C(C)OO
+c6h12ooh2-1o2	CCCCC(CO[O])OO
+c6h101ooh3-5o2	C=CC(CC(C)O[O])OO
+c4h8ooh1-2o2	CCC(COO)O[O]
+c4h8ooh2-1o2	CCC(CO[O])OO
+c8h17o-3	CCCCCC([O])CC
+c8h17o-2-2	CCCCCC(C)(C)[O]
+c8h18-2	CCCCCC(C)C
+c8h17o-4	CCCCC([O])CCC
+hoch2o2	[O]OCO
+nc6d3ket21	CCC=CC(=O)COO
+nc3h7coc2h5	CCCC(=O)CC
+hoch2o2h	OCOO
+nc5h11coch2	[CH2]C(=O)CCCCC
+c8h17o-2	CCCCCCC(C)[O]
+nc4ket12	CCC(C=O)OO
+c8h17o-3-3	CCCCC(C)([O])CC
+c5h11o-3	CCC([O])CC
+nc6ket23	CCCC(OO)C(C)=O
+c5h11o-1	CCCCC[O]
+ch2och2o2h	[CH2]OCOO
+nc4ket21	CCC(=O)COO
+nc6d1ket65	C=CCCC(C=O)OO
+o2ch2och2o2h	[O]OCOCOO
+c7h15o-2-2	CCCCC(C)(C)[O]
+c7h15o-1-2	CCCCC(C)C[O]
+c3h6ooh1-3	[CH2]CCOO
+c3ket12	CC(C=O)OO
+c8h17o-3-2	CCCCC([O])C(C)C
+c3h6ooh1-3o2	[O]OCCCOO
+c6h12ooh3-4	CC[CH]C(CC)OO
+c3ket13	O=CCCOO
+nc6ket21	CCCCC(=O)COO
+c6h12ooh3-4o2	CCC(O[O])C(CC)OO
+c6h102ooh6-4	CC=C[CH]CCOO
+ic3h5o2hcho	[CH2]C(C)(C=O)OO
+c6h102ooh6-4o2	CC=CC(CCOO)O[O]
+c6h101ooh5-3	[CH2]C=CCC(C)OO
+c7h15-2	C[CH]CCCCC
+c3h6coc2h5-2	C[CH]CC(=O)CC
+tc4h8cho	[CH2]C(C)(C)C=O
+c4h6cho1-44	C=CC[CH]C=O
+nc6ket32	CCCC(=O)C(C)OO
+c7h15o-2	CCCCCC(C)[O]
+nc6ket34	CCC(=O)C(CC)OO
+c6h13o-2	CCCCC(C)[O]
+c7h14ooh3-6	C[CH]CCC(CC)OO
+c3h52-1,3ooh	OOC[CH]COO
+ch3chcoch3	CC=C(C)[O]
+c3h6coc2h5-3	CC[CH]C(=O)CC
+ic3h7coc2h3	C=CC(=O)C(C)C
+c6h13o2h-2	CCCCC(C)OO
+c4h8coch3-2	C[CH]CCC(C)=O
+c3h6cho-3	CC[CH]C=O
+c5h10ooh2-3	CC[CH]C(C)OO
+c7h15o-1	CCCCCCC[O]
+c6h103ooh1-2o2	CCC=CC(COO)O[O]
+tc4h9o	CC(C)(C)[O]
+c7h15-4	CCC[CH]CCC
+c6h11o1-3	C=CC([O])CCC
+ic3h7co	CC(C)[C]=O
+c6h101ooh6-3	[CH2]C=CCCCOO
+c5h10cho-1	[CH2]CCCCC=O
+c6h112o2h-5	CC=CCC(C)OO
+c5h10cho-2	C[CH]CCCC=O
+ac3h5ooh	C=CCOO
+c5h11o2-2	CCCC(C)O[O]
+c5h9o1-5	C=CCCC[O]
+c7h15o2-3	CCCCC(CC)O[O]
+ch3choococh3	CC(=O)C(C)O[O]
+c2h5coc2h5	CCC(=O)CC
+ic3h6cho	[CH2]C(C)C=O
+c5h11o2-1	CCCCCO[O]
+ch3coch2o2h	CC(=O)COO
+c5h81-3	C=CC=CC
+c3h6coc2h5-1	[CH2]CCC(=O)CC
+nc3h7coc2h4s	C[CH]C(=O)CCC
+c6h101ooh3-6	[CH2]CCC(C=C)OO
+c7h14ooh3-2	C[CH]C(CCCC)OO
+c7h14ooh1-2	CCCCC[CH]COO
+c6h113o2h-2	CCC=CC(C)OO
+c5h10ooh1-4	C[CH]CCCOO
+tc4h8o2h-i	[CH2]C(C)(C)OO
+c8ooh2-1	[CH2]C(CCCCCC)OO
+c4h8ooh2-3	C[CH]C(C)OO
+c7h15o2-4	CCCC(CCC)O[O]
+c7h13o3-5	CCC=CC([O])CC
+c6h12o2-3	CCCC1OC1C
+c4h8o1-2	CCC1CO1
+c7h14ooh3-6o2	CCC(CCC(C)O[O])OO
+c5h10ooh1-3	CC[CH]CCOO
+c6h12ooh2-5	C[CH]CCC(C)OO
+c6h13o2h-1	CCCCCCOO
+c8h17-3	CC[CH]CCCCC
+c8h17-2	C[CH]CCCCCC
+c8h17o2-2	CCCCCCC(C)O[O]
+ic4h9co	CC(C)C[C]=O
+c6h12ooh1-5	C[CH]CCCCOO
+c6h12ooh1-3	CCC[CH]CCOO
+c7h14ooh4-2	C[CH]CC(CCC)OO
+nc5h11coc3h6p	[CH2]CCC(=O)CCCCC
+ch3och2o2h	COCOO
+c7h15o2h-3	CCCCC(CC)OO
+tc3h6o2hco	CC(C)([C]=O)OO
+c5h10ooh2-1	[CH2]C(CCC)OO
+tc3h6coc2h3	C=CC(=O)[C](C)C
+c8ooh2-5	CCC[CH]CCC(C)OO
+c7h14ooh3-4	CCC[CH]C(CC)OO
+c7h14ooh4-1	[CH2]CCC(CCC)OO
+c7h14o1-2	CCCCCC1CO1
+ic3h6co	CC(C)=C=O
+c2h3coch3	C=CC(C)=O
+ic4h9o2	CC(C)CO[O]
+c6h13o-1	CCCCCC[O]
+c4h8cho-4	CCC[CH]C=O
+c5h10ooh2-1o2	CCCC(CO[O])OO
+c6h12ooh2-5o2	CC(CCC(C)OO)O[O]
+c5h10ooh2-3o2	CCC(O[O])C(C)OO
+c5h10ooh1-3o2	CCC(CCOO)O[O]
+c7h14ooh4-2o2	CCCC(CC(C)O[O])OO
+c6h101ooh3-6o2	C=CC(CCCO[O])OO
+ic4h9coc2h4p	[CH2]CC(=O)CC(C)C
+c7h14ooh3-2o2	CCCCC(OO)C(C)O[O]
+c7h14ooh1-2o2	CCCCCC(COO)O[O]
+o2c4h8cho	CC(C)(C=O)CO[O]
+c8ooh2-1o2	CCCCCCC(CO[O])OO
+c7h14ooh4-1o2	CCCC(CCCO[O])OO
+c8ooh2-5o2	CCCC(CCC(C)OO)O[O]
+c6h102ooh4-5	C[CH]C(C=CC)OO
+c4h8ooh2-3o2	CC(O[O])C(C)OO
+c6h102ooh4-5o2	CC=CC(OO)C(C)O[O]
+c6h13o2-3	CCCC(CC)O[O]
+o2hc4h8co	CC(C)([C]=O)COO
+c6h12ooh1-5o2	CC(CCCCOO)O[O]
+c6h12ooh1-3o2	CCCC(CCOO)O[O]
+tc4h8ooh-io2	CC(C)(CO[O])OO
+c7h14ooh3-4o2	CCCC(O[O])C(CC)OO
+c5h10ooh1-4o2	CC(CCCOO)O[O]
+nc6d2ket45	CC=CC(=O)C(C)OO
+c7h14ooh2-5	CC[CH]CCC(C)OO
+c8ket2-5	CCCC(CCC(C)=O)OO
+c7h14ooh2-5o2	CCC(CCC(C)OO)O[O]
+c2h5coc2h4s	C[CH]C(=O)CC
+c2h5chco	CCC=C=O
+c4h6cho1-13	C[CH]C=CC=O
+c7h14o2-3	CCCCC1OC1C
+nc6d1ket34	C=CC(=O)C(CC)OO
+c7h14ooh2-3	CCCC[CH]C(C)OO
+nc5ket14	CC(CCC=O)OO
+nc5ket13	CCC(CC=O)OO
+c7h14o2-4	CCCC1CC(C)O1
+c7h14ooh2-3o2	CCCCC(O[O])C(C)OO
+c6h12o1-5	CC1CCCCO1
+c7h15o2h-4	CCCC(CCC)OO
+c6h12o1-3	CCCC1CCO1
+nc4ket23	CC(=O)C(C)OO
+c5h10o1-3	CCC1CCO1
+c5h10o1-4	CC1CCCO1
+c5h10o1-2	CCCC1CO1
+nc6ket25	CC(=O)CCC(C)OO
+c5h81-4	C=CCC=C
+c6h13o-3	CCCC([O])CC
+c6h12o2-5	CC1CCC(C)O1
+c6h101ooh6-3o2	C=CC(CCCOO)O[O]
+nc7ket32	CCCCC(=O)C(C)OO
+c6h12ooh1-4	CC[CH]CCCOO
+c7h14ooh3-5o2	CCC(CC(CC)OO)O[O]
+nc5ket32	CCC(=O)C(C)OO
+nc4h9coch3	CCCCC(C)=O
+ch3chcho	C[CH]C=O
+nc7h15cho	CCCCCCCC=O
+nc6d2ket54	CC=CC(OO)C(C)=O
+nc6d2ket56	CC=CCC(=O)COO
+c5h10ooh1-2	CCC[CH]COO
+c5h10ooh3-1o2	CCC(CCO[O])OO
+c6h12ooh2-4	CC[CH]CC(C)OO
+c6h12ooh2-6	[CH2]CCCC(C)OO
+nc7ket15	CCC(CCCC=O)OO
+c7h14ooh1-5o2	CCC(CCCCOO)O[O]
+c6h12oh-1	CCCC[CH]CO
+nc5ket31	CCC(=O)CCOO
+nc6d1ket46	C=CCC(=O)CCOO
+c6h12ooh2-4o2	CCC(CC(C)OO)O[O]
+ch2choohcoch3	[CH2]C(OO)C(C)=O
+c7h14ooh1-5	CC[CH]CCCCOO
+c6h12ooh2-6o2	CC(CCCCO[O])OO
+c6h12ooh1-4o2	CCC(CCCOO)O[O]
+c5h10ooh3-1	[CH2]CC(CC)OO
+c5h10ooh1-2o2	CCCC(COO)O[O]
+c5h10ooh1-5	[CH2]CCCCOO
+c8ket2-1	CCCCCCC(=O)COO
+c5h10ooh1-5o2	[O]OCCCCCOO
+c8h17o2-3	CCCCCC(CC)O[O]
+c5h10o1-5	C1CCOCC1
+nc5ket15	O=CCCCCOO
+c8o1-2	CCCCCCC1CO1
+c6h12o1-4	CCC1CCCO1
+nc6ket24	CCC(CC(C)=O)OO
+ic4h9o2h	CC(C)COO
+ic4h9cho	CC(C)CC=O
+c6h112o2h-4	CC=CC(CC)OO
+nc6ket13	CCCC(CC=O)OO
+nc5ket12	CCCC(C=O)OO
+ic3h7coc3h6p	[CH2]CCC(=O)C(C)C
+c8h17o2h-3	CCCCCC(CC)OO
+c8h17o2h-2	CCCCCCC(C)OO
+c8ooh1-2	CCCCCC[CH]COO
+c6h101ooh4-6	[CH2]CC(CC=C)OO
+c8ooh3-4	CCCC[CH]C(CC)OO
+nc6d1ket63	C=CC(CCC=O)OO
+nc6ket26	CC(=O)CCCCOO
+nc7ket42	CCCC(=O)CC(C)OO
+nc7ket41	CCCC(=O)CCCOO
+c6h101ooh4-6o2	C=CCC(CCO[O])OO
+c4h8coch3-1	[CH2]CCCC(C)=O
+c5h10o2-3	CCC1OC1C
+c7h14ooh4-3	CC[CH]C(CCC)OO
+c6h12ooh3-6	[CH2]CCC(CC)OO
+c2h3ooh	C=COO
+nc7ket34	CCCC(OO)C(=O)CC
+c6h101ooh6-4	C=CC[CH]CCOO
+nc5ket23	CCC(OO)C(C)=O
+nc5ket21	CCCC(=O)COO
+c5h10ooh3-2	C[CH]C(CC)OO
+nc6d2ket64	CC=CC(CC=O)OO
+nc6d1ket56	C=CCCC(=O)COO
+c3coc3h6p	[CH2]CCC(=O)CCC
+c7h14ooh4-3o2	CCCC(OO)C(CC)O[O]
+c8o3-4	CCCCC1OC1CC
+nc7h15co	CCCCCCC[C]=O
+nc7h16	CCCCCCC
+c7h15o2-2	CCCCCC(C)O[O]
+c6h101ooh6-4o2	C=CCC(CCOO)O[O]
+c5h91-1	[CH]=CCCC
+c4h6cho1-14	[CH2]CC=CC=O
+c6h12o2-4	CCC1CC(C)O1
+c5h10ooh3-2o2	CCC(OO)C(C)O[O]
+c6h12ooh3-6o2	CCC(CCCO[O])OO
+c7coc2h4p	[CH2]CC(=O)CCCCCCC
+nc7ket43	CCCC(=O)C(CC)OO
+c8ooh3-6	CC[CH]CCC(CC)OO
+c8h17-4	CCC[CH]CCCC
+c5h10cho-5	CCCC[CH]C=O
+c6h113o2h-1	CCC=CCCOO
+nc6h13co	CCCCCC[C]=O
+c6h13o2h-3	CCCC(CC)OO
+c4h8coch3-4	CCCC=C(C)[O]
+nc7ket12	CCCCCC(C=O)OO
+c6h101ooh5-3o2	C=CC(CC(C)OO)O[O]
+nc6ket36	CCC(=O)CCCOO
+c4h8ooh1-4	[CH2]CCCOO
+c7h13o1-3	C=CC([O])CCCC
+c8h17-1	[CH2]CCCCCCC
+c5h11o2-3	CCC(CC)O[O]
+c7h14ooh3-5	CC[CH]CC(CC)OO
+c7h16-3	CCCC(C)CC
+nc6d1ket64	C=CCC(CC=O)OO
+nc6d1ket53	C=CC(CC(C)=O)OO
+nc6d1ket54	C=CCC(OO)C(C)=O
+c8ooh3-4o2	CCCCC(O[O])C(CC)OO
+nc7ket25	CCC(CCC(C)=O)OO
+c4h8ooh1-3	C[CH]CCOO
+nc6d3ket12	CCC=CC(C=O)OO
+c6h12o3-4	CCC1OC1CC
+ic4h8oh	C[C](C)CO
+nc7ket35	CCC(=O)CC(CC)OO
+c6h13coch2	[CH2]C(=O)CCCCCC
+nc7ket36	CCC(=O)CCC(C)OO
+c8h17coch2	[CH2]C(=O)CCCCCCCC
+nc6d1ket35	C=CC(=O)CC(C)OO
+nc6d1ket45	C=CCC(=O)C(C)OO
+c8ket3-4	CCCCC(OO)C(=O)CC
+c4h8ooh1-3o2	CC(CCOO)O[O]
+c4h8o1-3	CC1CCO1
+c4h8o2-3	CC1OC1C
+c4h8o1-4	C1CCOC1
+nc7ket23	CCCCC(OO)C(C)=O
+c8h16-2	CC=CCCCCC
+c7h15o-3	CCCCC([O])CC
+c8ooh3-6o2	CCC(CCC(CC)OO)O[O]
+io2c4h8oh	CC(C)(CO)O[O]
+c6h102ooh5-4	CC=C[CH]C(C)OO
+c4h8ooh1-4o2	[O]OCCCCOO
+c8o3-6	CCC1CCC(CC)O1
+c6h101ooh4-3o2	C=CC(O[O])C(CC)OO
+c8h17o2-4	CCCCC(CCC)O[O]
+c6h112o2h-6	CC=CCCCOO
+nc6d2ket65	CC=CCC(C=O)OO
+c5h10ooh2-5	[CH2]CCC(C)OO
+nc6ket15	CC(CCCC=O)OO
+nc6ket12	CCCCC(C=O)OO
+ic3h5oh	C=C(C)O
+c7h14o1-5	CCC1CCCCO1
+chchcho	[CH]=CC=O
+c7h14o1-4	CCCC1CCCO1
+c7h14o1-3	CCCCC1CCO1
+tc3h6ocho	CC(C)([O])C=O
+c4h7ooh1-4	C=CCCOO
+c4h8cho-1	[CH2]CCCC=O
+tc4h9o2h	CC(C)(C)OO
+c5h10ooh2-4	C[CH]CC(C)OO
+ic4h8o2h-t	C[C](C)COO
+ch2cch2oh	C=[C]CO
+c4h8coch3-3	CC[CH]CC(C)=O
+c7h14ooh2-4	CCC[CH]CC(C)OO
+c7h14ooh2-1	[CH2]C(CCCCC)OO
+nc6d1ket36	C=CC(=O)CCCOO
+ic4h8o2h-i	[CH2]C(C)COO
+nc7ket14	CCCC(CCC=O)OO
+nc7ket13	CCCCC(CC=O)OO
+c4h8ooh2-4o2	CC(CCO[O])OO
+c5h9ooh1-5	C=CCCCOO
+c5coc2h4p	[CH2]CC(=O)CCCCC
+c2h3coc3h7	C=CC(=O)CCC
+c7h15-1	[CH2]CCCCCC
+c3ket21	CC(=O)COO
+nc5ket24	CC(=O)CC(C)OO
+nc3h7coch3	CCCC(C)=O
+ch2o2h	[CH2]OO
+nc7ket24	CCCC(CC(C)=O)OO
+c7h14o3-5	CCC1CC(CC)O1
+c7h14o3-4	CCCC1OC1CC
+c5h11coch2	[CH2]C(=O)CCCCC
+ic4h8ooh-io2	CC(CO[O])COO
+c8h16-3	CCC=CCCCC
+ic4h8o	[CH2]C(C)C[O]
+c4h8ooh2-4	[CH2]CC(C)OO
+c7h14ooh1-3	CCCC[CH]CCOO
+c3h51-2,3ooh	[CH2]C(COO)OO
+ic4h8ooh-to2	CC(C)(COO)O[O]
+iic4h7q2-t	C[C](COO)COO
+c7h14ooh1-4o2	CCCC(CCCOO)O[O]
+ic4h7ooh	C=C(C)COO
+c5h11o2h-1	CCCCCOO
+nc7ket31	CCCCC(=O)CCOO
+nc8h17co	CCCCCCCC[C]=O
+nc6ket35	CCC(=O)CC(C)OO
+c7h14ooh1-4	CCC[CH]CCCOO
+c6h12ooh3-5o2	CCC(CC(C)O[O])OO
+c7h14ooh1-3	CCCC[CH]CCOO
+c7h14ooh2-6	C[CH]CCCC(C)OO
+c3h5oh	C=CCO
+iic4h7q2-i	[CH2]C(COO)COO
+c3h6coch3-1	[CH2]CCC(C)=O
+c5h9ooh1-4	C=CCC(C)OO
+c6h11o1-5	C=CCCC(C)[O]
+c7h14ooh3-7o2	CCC(CCCCO[O])OO
+tic4h7q2-i	[CH2]C(C)(COO)OO
+nc6d1ket43	C=CC(OO)C(=O)CC
+nc7ket21	CCCCCC(=O)COO
+c7h14ooh2-1o2	CCCCCC(CO[O])OO
+c7h14ooh2-6o2	CC(CCCC(C)OO)O[O]
+c6h11ooh1-4	C=CCC(CC)OO
+nc7ket37	CCC(=O)CCCCOO
+c7h14ooh3-1	[CH2]CC(CCCC)OO
+c4h8ooh1-1	CCC[CH]OO
+c7h14ooh1-3o2	CCCCC(CCOO)O[O]
+ho2ch2ocho	O=COCOO
+c7h15o2h-2	CCCCCC(C)OO
+c7h14o2-6	CC1CCCC(C)O1
+c7h14ooh3-7	[CH2]CCCC(CC)OO
+ic4ketit	CC(C)(C=O)OO
+nc6d2ket46	CC=CC(=O)CCOO
+c6h102ooh5-4o2	CC=CC(O[O])C(C)OO
+nc6ket31	CCCC(=O)CCOO
+nc6h13cho	CCCCCCC=O
+c3h51-2,3ooh	[CH2]C(COO)OO
+c3h6coch3-3	CCC=C(C)[O]
+c6h11ooh1-5	C=CCCC(C)OO
+ic4ketii	CC(C=O)COO
+tc4h9o2	CC(C)(C)O[O]
+c7h15o-4	CCCC([O])CCC
+nc5ket25	CC(=O)CCCOO
+c5h10o2-4	CC1CC(C)O1
+nc8h18	CCCCCCCC
+c7h15o2-1	CCCCCCCO[O]
+c5h10ooh2-4o2	CC(CC(C)OO)O[O]
+c6h12ooh3-5	C[CH]CC(CC)OO
+c8h16-4	CCCC=CCCC
+c6h102ooh4-6o2	CC=CC(CCO[O])OO
+c6h12ooh3-1	[CH2]CC(CCC)OO
+nc6ket14	CCC(CCC=O)OO
+c6h102ooh4-6	[CH2]CC(C=CC)OO
+nc4ket24	CC(=O)CCOO
+c5h11o2h-3	CCC(CC)OO
+c5h11o2h-2	CCCC(C)OO
+c6h12ooh3-1o2	CCCC(CCO[O])OO
+nc4ket13	CC(CC=O)OO
+c5h10ooh2-5o2	CC(CCCO[O])OO
+nc4ket14	O=CCCCOO
+c7h14ooh2-4o2	CCCC(CC(C)OO)O[O]
+c4h8ooh2-2	CC[C](C)OO
+c4h8ooh2-4	[CH2]CC(C)OO
+nc7ket26	CC(=O)CCCC(C)OO
+ic3h7coc2h4p	[CH2]CC(=O)C(C)C
+c7h15o2h-1	CCCCCCCOO
+ic4h8ooh-to2	CC(C)(COO)O[O]
+c7h14ooh3-1o2	CCCCC(CCO[O])OO
+c7h14o2-5	CCC1CCC(C)O1
+c8ooh1-2o2	CCCCCCC(COO)O[O]
+c8ooh3-1	[CH2]CC(CCCCC)OO
+c7h15coch2	[CH2]C(=O)CCCCCCC
+nc6h13coc2h4p	[CH2]CC(=O)CCCCCC
+c8h17o2-1	CCCCCCCCO[O]
+c8h17o-1	CCCCCCCC[O]
+c8ooh3-5	CCC[CH]CC(CC)OO
+c4h8cho4-2	[CH2]CC(C)C=O
+ac5h11	[CH2]C(C)CC	! Confirmed by Richard
+ac6h13	[CH2]C(C)CCC	! Confirmed by Richard
+dc5h11	[CH2]CC(C)C	! Confirmed by Richard
+ac6h12	C=C(C)CCC	! Confirmed by Richard
+ec6h13	[CH2]CCC(C)C	! Confirmed by Richard
+o2c6h12oh-1	CCCCC(CO)O[O]	! Confirmed by Richard
+mvox	C=CC1CC(C)O1	! Confirmed by Richard
+dc6h13	C[CH]CC(C)C	! Confirmed by Richard
+c8ket1-2	CCCCCCC(C=O)OO	! Confirmed by Richard
+c8h17-2d	CCC[CH]CC(C)C	! Confirmed by Richard
+c7h15-3d	CC[CH]C(C)CC	! Confirmed by Richard
+c7h15-3b	C[CH]C(C)CCC	! Confirmed by Richard
+c8h17-2a	[CH2]C(C)CCCCC	! Confirmed by Richard
+c8h17-2g	[CH2]CCCCC(C)C	! Confirmed by Richard
+c7h15-3a	[CH2]CC(C)CCC	! Confirmed by Richard
+c7h15-3z	[CH2]C(CC)CCC	! Confirmed by Richard
+c7h15-3f	[CH2]CCC(C)CC	! Confirmed by Richard
+c8h17-3b	C[CH]C(C)CCCC	! Confirmed by Richard
+
+c8ooh4-3	CC[CH]C(CCCC)OO	! Confirmed by Sophie
+c8h18-3	CCCCC(C)CC	! Confirmed by Sophie
+c7h14-4-2	CC=CCC(C)C	! Confirmed by Sophie
+c8h16-1-3	C=CC(C)CCCC	! Confirmed by Sophie
+c8h16-4-2	CCC=CCC(C)C	! Confirmed by Sophie
+c8h16-3-3	CCCC=C(C)CC	! Confirmed by Sophie
+c8ooh4-3o2	CCCCC(OO)C(CC)O[O]	! Confirmed by Sophie
+c7h14-2-2	CCCC=C(C)C	! Confirmed by Sophie
+c7h14-5-3	C=CCC(C)CC	! Confirmed by Sophie
+c8ooh4-5	CCC[CH]C(CCC)OO	! Confirmed by Sophie
+c8h17oo-4-2	CCCC(CC(C)C)O[O]	! Confirmed by Sophie
+c8h17oo-1-2	CCCCCC(C)CO[O]	! Confirmed by Sophie
+c8h17oo-7-2	CC(C)CCCCCO[O]	! Confirmed by Sophie
+c8h17oo-2-3	CCCCC(C)C(C)O[O]	! Confirmed by Sophie
+c8h17o2h-4	CCCCC(CCC)OO	! Confirmed by Sophie
+nc8h17cho	CCCCCCCCC=O	! Confirmed by Sophie
+c8o2-5	CCCC1CCC(C)O1	! Confirmed by Sophie
+c8ooh3-1o2	CCCCCC(CCO[O])OO	! Confirmed by Sophie
+c8o1-3	CCCCCC1CCO1	! Confirmed by Sophie
+c8h17o2h-1	CCCCCCCCOO	! Confirmed by Sophie
+c8ooh3-5o2	CCCC(CC(CC)OO)O[O]	! Confirmed by Sophie
+c8o3-5	CCCC1CC(CC)O1	! Confirmed by Sophie
+c8ket3-6	CCC(=O)CCC(CC)OO	! Confirmed by Sophie
+c8ket1-3	CCCCCC(CC=O)OO	! Confirmed by Sophie
+c8ket1-4	CCCCC(CCC=O)OO	! Confirmed by Sophie
+c8ket4-3	CCCCC(=O)C(CC)OO	! Confirmed by Sophie
+c8o4-5	CCCC1OC1CCC	! Confirmed by Sophie
+c8ooh4-5o2	CCCC(O[O])C(CCC)OO	! Confirmed by Sophie
+c8h17ooh-4-2	CCCC(CC(C)C)OO	! Confirmed by Sophie
+c8h17ooh-1-2	CCCCCC(C)COO	! Confirmed by Sophie
+c8h17ooh-7-2	CC(C)CCCCCOO	! Confirmed by Sophie
+c8h17ooh-2-3	CCCCC(C)C(C)OO	! Confirmed by Sophie
+c8ket3-1	CCCCCC(=O)CCOO	! Confirmed by Sophie
+c8ket3-5	CCCC(CC(=O)CC)OO	! Confirmed by Sophie
+c8ket4-5	CCCC(=O)C(CCC)OO	! Confirmed by Sophie
+c8h17o-4-2	CCCC([O])CC(C)C	! Confirmed by Sophie
+c8h17o-1-2	CCCCCC(C)C[O]	! Confirmed by Sophie
+c8h17o-7-2	CC(C)CCCCC[O]	! Confirmed by Sophie
+c8h17o-2-3	CCCCC(C)C(C)[O]	! Confirmed by Sophie
+c7h14-1-3	C=CC(C)CCC	! Confirmed by Sophie
+c7h14-2-3	CC=C(C)CCC	! Confirmed by Sophie
+c7h15o-5-2	CC(C)CCC(C)[O]	! Confirmed by Sophie
+c8h17o-6-2	CC(C)CCCC(C)[O]	! Confirmed by Sophie
+c8h17o-5-2	CCC([O])CCC(C)C	! Confirmed by Sophie
+c8h17o-5-3	CCC(C)CC([O])CC	! Confirmed by Sophie
+c7h15o-6-2	CC(C)CCCC[O]	! Confirmed by Sophie
+c7h15o-4-2	CCC([O])CC(C)C	! Confirmed by Sophie
+c7h15o-3-2	CCCC([O])C(C)C	! Confirmed by Sophie
+c8coc2h4p	[CH2]CC(=O)CCCCCCCC	! Confirmed by Sophie
+c8h17o-4-3	CCCC([O])C(C)CC	! Confirmed by Sophie
+c8h17oo-1-3	CCCCC(C)CCO[O]	! Confirmed by Sophie
+c8h17ooh-1-3	CCCCC(C)CCOO	! Confirmed by Sophie
+c8h17o-1-3	CCCCC(C)CC[O]	! Confirmed by Sophie
+c8h17oo-5-2	CCC(CCC(C)C)O[O]	! Confirmed by Sophie
+c8ooh3-7	C[CH]CCCC(CC)OO	! Confirmed by Sophie
+c8o2-6	CCC1CCCC(C)O1	! Confirmed by Sophie
+c8ooh3-7o2	CCC(CCCC(C)O[O])OO	! Confirmed by Sophie
+c8h17ooh-5-2	CCC(CCC(C)C)OO	! Confirmed by Sophie
+c8ket3-7	CCC(=O)CCCC(C)OO	! Confirmed by Sophie
+c7coc3h6p	[CH2]CCC(=O)CCCCCCC	! Confirmed by Sophie
+c7h15oo-3-2	CCCC(O[O])C(C)C	! Confirmed by Sophie
+c7h14-3-2	CCC=CC(C)C	! Confirmed by Sophie
+c7h15ooh-3-2	CCCC(OO)C(C)C	! Confirmed by Sophie
+c7h15oo-2-2	CCCCC(C)(C)O[O]	! Confirmed by Sophie
+c8h16-1-2	C=C(C)CCCCC	! Confirmed by Sophie
+c7h15ooh-2-2	CCCCC(C)(C)OO	! Confirmed by Sophie
+c8h17oo-4-3	CCCC(O[O])C(C)CC	! Confirmed by Sophie
+c8h16-5-2	CC=CCCC(C)C	! Confirmed by Sophie
+c8h16-4-3	CCC=CC(C)CC	! Confirmed by Sophie
+c8h17ooh-4-3	CCCC(OO)C(C)CC	! Confirmed by Sophie
+c8h16-6-2	C=CCCCC(C)C	! Confirmed by Sophie
+c8ooh4-1	[CH2]CCC(CCCC)OO	! Confirmed by Sophie
+c7h14-1-2	C=C(C)CCCC	! Confirmed by Sophie
+c8ooh4-1o2	CCCCC(CCCO[O])OO	! Confirmed by Sophie
+c8o1-4	CCCCC1CCCO1	! Confirmed by Sophie
+c8ket4-1	CCCCC(=O)CCCOO	! Confirmed by Sophie
+c8ooh4-8	[CH2]CCCC(CCC)OO	! Confirmed by Sophie
+c8ooh4-8o2	CCCC(CCCCO[O])OO	! Confirmed by Sophie
+c8o1-5	CCCC1CCCCO1	! Confirmed by Sophie
+c8ket4-8	CCCC(=O)CCCCOO	! Confirmed by Sophie
+c8h17oo-6-2	CC(C)CCCC(C)O[O]	! Confirmed by Sophie
+c7h16-2	CCCCC(C)C	! Confirmed by Sophie
+c8h16-3-2	CCCC=CC(C)C	! Confirmed by Sophie
+c8h17ooh-6-2	CC(C)CCCC(C)OO	! Confirmed by Sophie
+c8ooh4-2	C[CH]CC(CCCC)OO	! Confirmed by Sophie
+c7h14-3-3	CCC=C(C)CC	! Confirmed by Sophie
+c8ooh4-2o2	CCCCC(CC(C)O[O])OO	! Confirmed by Sophie
+c8o2-4	CCCCC1CC(C)O1	! Confirmed by Sophie
+c7h14-4-3	CC=CC(C)CC	! Confirmed by Sophie
+c8ket4-2	CCCCC(=O)CC(C)OO	! Confirmed by Sophie
+c7h15oo-4-2	CCC(CC(C)C)O[O]	! Confirmed by Sophie
+c7h15ooh-4-2	CCC(CC(C)C)OO	! Confirmed by Sophie
+c7h15oo-5-2	CC(C)CCC(C)O[O]	! Confirmed by Sophie
+c7h15oo-1-2	CCCCC(C)CO[O]	! Confirmed by Sophie
+c7h15ooh-5-2	CC(C)CCC(C)OO	! Confirmed by Sophie
+c7h15ooh-1-2	CCCCC(C)COO	! Confirmed by Sophie
+c8h17oo-3-2	CCCCC(O[O])C(C)C	! Confirmed by Sophie
+c8ooh2-3	CCCCC[CH]C(C)OO	! Confirmed by Sophie
+c8h17ooh-3-2	CCCCC(OO)C(C)C	! Confirmed by Sophie
+c8ooh3-2	C[CH]C(CCCCC)OO	! Confirmed by Sophie
+c8ooh2-3o2	CCCCCC(O[O])C(C)OO	! Confirmed by Sophie
+c8o2-3	CCCCCC1OC1C	! Confirmed by Sophie
+c8ooh3-2o2	CCCCCC(OO)C(C)O[O]	! Confirmed by Sophie
+c8ket2-3	CCCCCC(OO)C(C)=O	! Confirmed by Sophie
+c8ket3-2	CCCCCC(=O)C(C)OO	! Confirmed by Sophie
+c7h14-5-2	C=CCCC(C)C	! Confirmed by Sophie
+nc4h9coc3h6p	[CH2]CCC(=O)CCCC	! Confirmed by Sophie
+c7h15oo-6-2	CC(C)CCCCO[O]	! Confirmed by Sophie
+c7h15ooh-6-2	CC(C)CCCCOO	! Confirmed by Sophie
+c8ooh2-6	CC[CH]CCCC(C)OO	! Confirmed by Sophie
+c8h17oo-5-3	CCC(C)CC(CC)O[O]	! Confirmed by Sophie
+c8ooh2-6o2	CCC(CCCC(C)OO)O[O]	! Confirmed by Sophie
+c8h17ooh-5-3	CCC(C)CC(CC)OO	! Confirmed by Sophie
+c8ket2-6	CCC(CCCC(C)=O)OO	! Confirmed by Sophie
+c8h17oo-3-3	CCCCC(C)(CC)O[O]	! Confirmed by Sophie
+c8h17oo-2-2	CCCCCC(C)(C)O[O]	! Confirmed by Sophie
+c8h17ooh-3-3	CCCCC(C)(CC)OO	! Confirmed by Sophie
+c8h17ooh-2-2	CCCCCC(C)(C)OO	! Confirmed by Sophie
+c8ooh2-4	CCCC[CH]CC(C)OO	! Confirmed by Sophie
+c8ooh2-4o2	CCCCC(CC(C)OO)O[O]	! Confirmed by Sophie
+c8ooh4-7	C[CH]CCC(CCC)OO	! Confirmed by Sophie
+c8ket2-4	CCCCC(CC(C)=O)OO	! Confirmed by Sophie
+c8ooh4-7o2	CCCC(CCC(C)O[O])OO	! Confirmed by Sophie
+c8ket4-7	CCCC(=O)CCC(C)OO	! Confirmed by Sophie
+c8ooh4-6	CC[CH]CC(CCC)OO	! Confirmed by Sophie
+c8ooh4-6o2	CCCC(CC(CC)O[O])OO	! Confirmed by Sophie
+c8ket4-6	CCCC(=O)CC(CC)OO	! Confirmed by Sophie
+c8ooh1-5	CCC[CH]CCCCOO	! Confirmed by Sophie
+c8ooh1-5o2	CCCC(CCCCOO)O[O]	! Confirmed by Sophie
+c8ket1-5	CCCC(CCCC=O)OO	! Confirmed by Sophie
+c8h16-2-3	CC=C(C)CCCC	! Confirmed by Sophie
+c8h16-2-2	CCCCC=C(C)C	! Confirmed by Sophie
+c6coc3h6p	[CH2]CCC(=O)CCCCCC	! Confirmed by Sophie
+ic5h11co	CC(C)CC[C]=O	! Confirmed by Sophie
+ic5h11coc2h4p	[CH2]CC(=O)CCC(C)C	! Confirmed by Sophie
+ic5h11cho	CC(C)CCC=O	! Confirmed by Sophie
+ic6h13co	CC(C)CCC[C]=O	! Confirmed by Sophie
+ic6h13coc2h4p	[CH2]CC(=O)CCCC(C)C	! Confirmed by Sophie
+ic6h13cho	CC(C)CCCC=O	! Confirmed by Sophie
+c8coc3h6p	[CH2]CCC(=O)CCCCCCCC	! Confirmed by Sophie
+edhf	CCC1C=CCO1	! Confirmed by Sophie
+vthf	C=CC1CCCO1	! Confirmed by Sophie
+ic8h17co	CC(C)CCCCC[C]=O	! Confirmed by Sophie
+ic8h17cho	CC(C)CCCCCC=O	! Confirmed by Sophie
+ic8h17coc2h4p	[CH2]CC(=O)CCCCCC(C)C	! Confirmed by Sophie
+c8ooh1-4	CCCC[CH]CCCOO	! Confirmed by Sophie
+c8ooh1-4o2	CCCCC(CCCOO)O[O]	! Confirmed by Sophie
+c8h16-5-3	CC=CCC(C)CC	! Confirmed by Sophie
+c8ooh1-3	CCCCC[CH]CCOO	! Confirmed by Sophie
+c8ooh1-3o2	CCCCCC(CCOO)O[O]	! Confirmed by Sophie
+c8h17oo-6-3	CCC(C)CCC(C)O[O]	! Confirmed by Sophie
+c8h17ooh-6-3	CCC(C)CCC(C)OO	! Confirmed by Sophie
+c8h17o-6-3	CCC(C)CCC(C)[O]	! Confirmed by Sophie
+c8h16-6-3	C=CCCC(C)CC	! Confirmed by Sophie
+c8h17oo-7-3	CCC(C)CCCCO[O]	! Confirmed by Sophie
+c8h17ooh-7-3	CCC(C)CCCCOO	! Confirmed by Sophie
+c8h17o-7-3	CCC(C)CCCC[O]	! Confirmed by Sophie
+c7h15-2d	CC[CH]CC(C)C	! Confirmed by Sophie
+c7h15-2f	[CH2]CCCC(C)C	! Confirmed by Sophie
+c7h15-2c	CCC[CH]C(C)C	! Confirmed by Sophie
+c8h17-3a	[CH2]CC(C)CCCC	! Confirmed by Sophie
+c8h17-2c	CCCC[CH]C(C)C	! Confirmed by Sophie
+c8h17-2e	CC[CH]CCC(C)C	! Confirmed by Sophie
+c8h17-3e	CC[CH]CC(C)CC	! Confirmed by Sophie
+c7h15-2b	CCCC[C](C)C	! Confirmed by Sophie
+c8h17-3d	CCC[CH]C(C)CC	! Confirmed by Sophie
+c8h17-2f	C[CH]CCCC(C)C	! Confirmed by Sophie
+c8h17-3g	[CH2]CCCC(C)CC	! Confirmed by Sophie
+c8h17-2b	CCCCC[C](C)C	! Confirmed by Sophie
+c7h15-2e	C[CH]CCC(C)C	! Confirmed by Sophie
+c7h15-2a	[CH2]C(C)CCCC	! Confirmed by Sophie
+c8h17-3f	C[CH]CCC(C)CC	! Confirmed by Sophie
+c7h15-3e	C[CH]CC(C)CC	! Confirmed by Sophie
+c8h17-3c	CCCC[C](C)CC	! Confirmed by Sophie
+c7h15-3c	CCC[C](C)CC	! Confirmed by Sophie
+c8ooh4-3c	CCCC(OO)[C](C)CC	! Confirmed by Sophie
+c8ooh4-oo3-3	CCCC(OO)C(C)(CC)O[O]	! Confirmed by Sophie
+c8h16o3-4-3	CCCC1OC1(C)CC	! Confirmed by Sophie
+c8ket4-3-3	CCCC(=O)C(C)(CC)OO	! Confirmed by Sophie
+c8ooh5-3f	C[CH]C(CC(C)CC)OO	! Confirmed by Sophie
+c8h16o5-6-3	CCC(C)CC1OC1C	! Confirmed by Sophie
+c8ooh5-oo6-3	CCC(C)CC(OO)C(C)O[O]	! Confirmed by Sophie
+c8ooh5-2d	CCC([CH]CC(C)C)OO	! Confirmed by Sophie
+c8ket5-6-3	CCC(C)CC(=O)C(C)OO	! Confirmed by Sophie
+c8h16o4-5-2	CCC1OC1CC(C)C	! Confirmed by Sophie
+c8ooh5-oo4-2	CCC(OO)C(CC(C)C)O[O]	! Confirmed by Sophie
+c8ooh4-3e	CC[CH]C(OO)C(C)CC	! Confirmed by Sophie
+c8ooh4-2c	CCCC([CH]C(C)C)OO	! Confirmed by Sophie
+c8ooh6-3g	[CH2]C(CCC(C)CC)OO	! Confirmed by Sophie
+c8ket5-4-2	CCC(=O)C(CC(C)C)OO	! Confirmed by Sophie
+c8h16o4-5-3	CCC(C)C1OC1CC	! Confirmed by Sophie
+c8ooh4-oo5-3	CCC(C)C(OO)C(CC)O[O]	! Confirmed by Sophie
+c8h16o3-4-2	CCCC1OC1C(C)C	! Confirmed by Sophie
+c8ooh4-oo3-2	CCCC(OO)C(O[O])C(C)C	! Confirmed by Sophie
+c8h16o6-7-3	CCC(C)CCC1CO1	! Confirmed by Sophie
+c8ooh6-oo7-3	CCC(C)CCC(CO[O])OO	! Confirmed by Sophie
+c8ket4-5-3	CCC(C)C(=O)C(CC)OO	! Confirmed by Sophie
+c8ket4-3-2	CCCC(=O)C(OO)C(C)C	! Confirmed by Sophie
+c8ket6-7-3	CCC(C)CCC(=O)COO	! Confirmed by Sophie
+c8ooh3-2b	CCCCC(OO)[C](C)C	! Confirmed by Sophie
+c8ooh2-3c	CCCC[C](C)C(C)OO	! Confirmed by Sophie
+c8ooh2-3a	[CH2]C(OO)C(C)CCCC	! Confirmed by Sophie
+c8ooh3-oo2-2	CCCCC(OO)C(C)(C)O[O]	! Confirmed by Sophie
+c8h16o2-3-2	CCCCC1OC1(C)C	! Confirmed by Sophie
+c8ooh2-oo3-3	CCCCC(C)(O[O])C(C)OO	! Confirmed by Sophie
+c8h16o2-3-3	CCCCC1(C)OC1C	! Confirmed by Sophie
+c8h16o1-2-3	CCCCC(C)C1CO1	! Confirmed by Sophie
+c8ooh2-oo1-3	CCCCC(C)C(CO[O])OO	! Confirmed by Sophie
+c8ket3-2-2	CCCCC(=O)C(C)(C)OO	! Confirmed by Sophie
+c8ket2-3-3	CCCCC(C)(OO)C(C)=O	! Confirmed by Sophie
+c8ket2-1-3	CCCCC(C)C(=O)COO	! Confirmed by Sophie
+c8ooh1-2b	CCCCC[C](C)COO	! Confirmed by Sophie
+c8ooh5-2f	C[CH]C(CCC(C)C)OO	! Confirmed by Sophie
+c7ooh3-2d	CC[CH]C(OO)C(C)C	! Confirmed by Sophie
+c8ooh6-2g	[CH2]C(CCCC(C)C)OO	! Confirmed by Sophie
+c7ooh1-2b	CCCC[C](C)COO	! Confirmed by Sophie
+c8h16o1-2-2	CCCCCC1(C)CO1	! Confirmed by Sophie
+c8ooh1-oo2-2	CCCCCC(C)(COO)O[O]	! Confirmed by Sophie
+c8ooh5-oo6-2	CC(C)CCC(OO)C(C)O[O]	! Confirmed by Sophie
+c8h16o5-6-2	CC(C)CCC1OC1C	! Confirmed by Sophie
+c7h14o3-4-2	CCC1OC1C(C)C	! Confirmed by Sophie
+c7ooh3-oo4-2	CCC(O[O])C(OO)C(C)C	! Confirmed by Sophie
+c8ooh6-oo7-2	CC(C)CCCC(CO[O])OO	! Confirmed by Sophie
+c8h16o6-7-2	CC(C)CCCC1CO1	! Confirmed by Sophie
+c7h14o1-2-2	CCCCC1(C)CO1	! Confirmed by Sophie
+c7ooh1-oo2-2	CCCCC(C)(COO)O[O]	! Confirmed by Sophie
+c8ket1-2-2	CCCCCC(C)(C=O)OO	! Confirmed by Sophie
+c8ket5-6-2	CC(C)CCC(=O)C(C)OO	! Confirmed by Sophie
+c7ket3-4-2	CCC(OO)C(=O)C(C)C	! Confirmed by Sophie
+c8ket6-7-2	CC(C)CCCC(=O)COO	! Confirmed by Sophie
+c7ket1-2-2	CCCCC(C)(C=O)OO	! Confirmed by Sophie
+c7ooh5-2d	CC(C)C[CH]C(C)OO	! Confirmed by Sophie
+c7ooh5-oo4-2	CC(C)CC(O[O])C(C)OO	! Confirmed by Sophie
+c7h14o4-5-2	CC(C)CC1OC1C	! Confirmed by Sophie
+c7ket5-4-2	CC(=O)C(CC(C)C)OO	! Confirmed by Sophie
+c8ooh5-3d	CCC(C)[CH]C(CC)OO	! Confirmed by Sophie
+c8ooh5-oo4-3	CCC(C)C(O[O])C(CC)OO	! Confirmed by Sophie
+c8ket5-4-3	CCC(=O)C(OO)C(C)CC	! Confirmed by Sophie
+c8ooh3-3d	CCC[CH]C(C)(CC)OO	! Confirmed by Sophie
+c8ooh3-oo4-3	CCCC(O[O])C(C)(CC)OO	! Confirmed by Sophie
+c8ooh6-3e	CCC(C)C[CH]C(C)OO	! Confirmed by Sophie
+c8ooh6-oo5-3	CCC(C)CC(O[O])C(C)OO	! Confirmed by Sophie
+c8ket6-5-3	CCC(C)CC(OO)C(C)=O	! Confirmed by Sophie
+c7ooh2-2c	CCC[CH]C(C)(C)OO	! Confirmed by Sophie
+c7ooh2-oo3-2	CCCC(O[O])C(C)(C)OO	! Confirmed by Sophie
+c7h14o2-3-2	CCCC1OC1(C)C	! Confirmed by Sophie
+c8ooh1-3b	CCCCC(C)[CH]COO	! Confirmed by Sophie
+c8ooh1-oo2-3	CCCCC(C)C(COO)O[O]	! Confirmed by Sophie
+c8ket1-2-3	CCCCC(C)C(C=O)OO	! Confirmed by Sophie
+c7ooh6-2e	CC(C)CC[CH]COO	! Confirmed by Sophie
+c7ooh6-oo5-2	CC(C)CCC(COO)O[O]	! Confirmed by Sophie
+c7h14o5-6-2	CC(C)CCC1CO1	! Confirmed by Sophie
+c7ket6-5-2	CC(C)CCC(C=O)OO	! Confirmed by Sophie
+c8ooh4-2e	CC[CH]C(CC(C)C)OO	! Confirmed by Sophie
+c8ooh4-oo5-2	CCC(O[O])C(CC(C)C)OO	! Confirmed by Sophie
+c8ket4-5-2	CCC(OO)C(=O)CC(C)C	! Confirmed by Sophie
+ic7h15co	CC(C)CCCC[C]=O	! Confirmed by Sophie
+ic7h15cho	CC(C)CCCCC=O	! Confirmed by Sophie
+ic7h15coc2h4p	[CH2]CC(=O)CCCCC(C)C	! Confirmed by Sophie
+c8ooh3-2d	CCC[CH]C(OO)C(C)C	! Confirmed by Sophie
+c8ooh3-oo4-2	CCCC(O[O])C(OO)C(C)C	! Confirmed by Sophie
+c8ket3-4-2	CCCC(OO)C(=O)C(C)C	! Confirmed by Sophie
+c8ooh3-3b	C[CH]C(C)(CCCC)OO	! Confirmed by Sophie
+c8ooh3-oo2-3	CCCCC(C)(OO)C(C)O[O]	! Confirmed by Sophie
+c7ooh4-2c	CCC([CH]C(C)C)OO	! Confirmed by Sophie
+c7ooh4-oo3-2	CCC(OO)C(O[O])C(C)C	! Confirmed by Sophie
+c7ket4-3-2	CCC(=O)C(OO)C(C)C	! Confirmed by Sophie
+c8ooh4-3a	[CH2]CC(C)C(CCC)OO	! Confirmed by Sophie
+c7ooh3-2b	CCCC(OO)[C](C)C	! Confirmed by Sophie
+c8h16o1-4-3	CCCC1OCCC1C	! Confirmed by Sophie
+c8ooh4-oo1-3	CCCC(OO)C(C)CCO[O]	! Confirmed by Sophie
+c7ooh3-oo2-2	CCCC(OO)C(C)(C)O[O]	! Confirmed by Sophie
+c8ket4-1-3	CCCC(=O)C(C)CCOO	! Confirmed by Sophie
+c7ket3-2-2	CCCC(=O)C(C)(C)OO	! Confirmed by Sophie
+c8ooh7-3f	CCC(C)CC[CH]COO	! Confirmed by Sophie
+c8ooh7-oo6-3	CCC(C)CCC(COO)O[O]	! Confirmed by Sophie
+c8ket7-6-3	CCC(C)CCC(C=O)OO	! Confirmed by Sophie
+c8ooh2-2a	[CH2]C(C)(CCCCC)OO	! Confirmed by Sophie
+c8ooh2-oo1-2	CCCCCC(C)(CO[O])OO	! Confirmed by Sophie
+c8ooh6-2e	CC(C)CC[CH]C(C)OO	! Confirmed by Sophie
+c8ooh6-oo5-2	CC(C)CCC(O[O])C(C)OO	! Confirmed by Sophie
+c8ket6-5-2	CC(=O)C(CCC(C)C)OO	! Confirmed by Sophie
+c7ooh5-2f	[CH2]C(CCC(C)C)OO	! Confirmed by Sophie
+c7ooh5-oo6-2	CC(C)CCC(CO[O])OO	! Confirmed by Sophie
+c7ket5-6-2	CC(C)CCC(=O)COO	! Confirmed by Sophie
+c8ooh5-3c	CC[C](C)CC(CC)OO	! Confirmed by Sophie
+c8h16o3-5-3	CCC1CC(C)(CC)O1	! Confirmed by Sophie
+c8ooh5-oo3-3	CCC(CC(C)(CC)O[O])OO	! Confirmed by Sophie
+c8ket5-3-3	CCC(=O)CC(C)(CC)OO	! Confirmed by Sophie
+c8ooh7-2f	CC(C)CCC[CH]COO	! Confirmed by Sophie
+c8ooh7-oo6-2	CC(C)CCCC(COO)O[O]	! Confirmed by Sophie
+c8ket7-6-2	CC(C)CCCC(C=O)OO	! Confirmed by Sophie
+c7ooh4-2e	C[CH]C(CC(C)C)OO	! Confirmed by Sophie
+c7ooh4-oo5-2	CC(C)CC(OO)C(C)O[O]	! Confirmed by Sophie
+c7ket4-5-2	CC(C)CC(=O)C(C)OO	! Confirmed by Sophie
+c8ooh1-2a	CCCCCC(C)[CH]OO	! Confirmed by Sophie
+c8ooh1-oo1-2	CCCCCC(C)C(O[O])OO	! Confirmed by Sophie
+cc5h10	C=CC(C)C	! Confirmed by Sophie
+ac5h10	C=C(C)CC	! Confirmed by Sophie
+bc5h10	CC=C(C)C	! Confirmed by Sophie
+cc6h12	CC=CC(C)C	! Confirmed by Sophie
+c7ooh2-2a	[CH2]C(C)(CCCC)OO	! Confirmed by Sophie
+c7ooh2-oo1-2	CCCCC(C)(CO[O])OO	! Confirmed by Sophie
+c8ooh1-3e	CC[CH]CC(C)CCOO	! Confirmed by Sophie
+c8ooh5-2g	[CH2]CC(CCC(C)C)OO	! Confirmed by Sophie
+c8h16o1-5-3	CCC1CC(C)CCO1	! Confirmed by Sophie
+c8ooh1-oo5-3	CCC(CC(C)CCOO)O[O]	! Confirmed by Sophie
+c8ooh5-oo7-2	CC(C)CCC(CCO[O])OO	! Confirmed by Sophie
+c8h16o5-7-2	CC(C)CCC1CCO1	! Confirmed by Sophie
+c8ket1-5-3	CCC(CC(C)CC=O)OO	! Confirmed by Sophie
+c8ket5-7-2	CC(C)CCC(=O)CCOO	! Confirmed by Sophie
+c8ooh6-3b	C[CH]C(C)CCC(C)OO	! Confirmed by Sophie
+c8ooh4-3b	C[CH]C(C)C(CCC)OO	! Confirmed by Sophie
+c8h16o2-6-3	CC1CCC(C)C(C)O1	! Confirmed by Sophie
+c8ooh6-oo2-3	CC(CCC(C)C(C)O[O])OO	! Confirmed by Sophie
+c8h16o2-4-3	CCCC1OC(C)C1C	! Confirmed by Sophie
+c8ooh4-oo2-3	CCCC(OO)C(C)C(C)O[O]	! Confirmed by Sophie
+c8ket6-2-3	CC(=O)CCC(C)C(C)OO	! Confirmed by Sophie
+c8ket4-2-3	CCCC(=O)C(C)C(C)OO	! Confirmed by Sophie
+c8ooh4-2g	[CH2]CCC(CC(C)C)OO	! Confirmed by Sophie
+c8ooh2-2c	CCCC[CH]C(C)(C)OO	! Confirmed by Sophie
+c8h16o4-7-2	CC(C)CC1CCCO1	! Confirmed by Sophie
+c8ooh4-oo7-2	CC(C)CC(CCCO[O])OO	! Confirmed by Sophie
+c8ooh2-oo3-2	CCCCC(O[O])C(C)(C)OO	! Confirmed by Sophie
+c8ket4-7-2	CC(C)CC(=O)CCCOO	! Confirmed by Sophie
+c8ooh3-3g	[CH2]CCCC(C)(CC)OO	! Confirmed by Sophie
+c7ooh1-2a	CCCCC(C)[CH]OO	! Confirmed by Sophie
+c8ooh3-oo7-3	CCC(C)(CCCCO[O])OO	! Confirmed by Sophie
+c8h16o3-7-3	CCC1(C)CCCCO1	! Confirmed by Sophie
+c7ooh1-oo1-2	CCCCC(C)C(O[O])OO	! Confirmed by Sophie
+c8ooh5-3b	C[CH]C(C)CC(CC)OO	! Confirmed by Sophie
+c8ooh5-3a	[CH2]CC(C)CC(CC)OO	! Confirmed by Sophie
+c8h16o2-5-3	CCC1CC(C)C(C)O1	! Confirmed by Sophie
+c8ooh5-oo2-3	CCC(CC(C)C(C)O[O])OO	! Confirmed by Sophie
+c8ooh5-oo1-3	CCC(CC(C)CCO[O])OO	! Confirmed by Sophie
+c8ket5-2-3	CCC(=O)CC(C)C(C)OO	! Confirmed by Sophie
+c8ket5-1-3	CCC(=O)CC(C)CCOO	! Confirmed by Sophie
+c8ooh3-2f	C[CH]CCC(OO)C(C)C	! Confirmed by Sophie
+c8ooh2-3f	C[CH]CCC(C)C(C)OO	! Confirmed by Sophie
+c8ooh3-oo6-2	CC(C)C(CCC(C)O[O])OO	! Confirmed by Sophie
+c8h16o3-6-2	CC(C)C1CCC(C)O1	! Confirmed by Sophie
+c8ooh2-oo6-3	CC(CCC(C)C(C)OO)O[O]	! Confirmed by Sophie
+c8ket3-6-2	CC(C)C(=O)CCC(C)OO	! Confirmed by Sophie
+c8ket2-6-3	CC(=O)C(C)CCC(C)OO	! Confirmed by Sophie
+c8ooh1-2c	CCCC[CH]C(C)COO	! Confirmed by Sophie
+c8h16o1-3-2	CCCCC1OCC1C	! Confirmed by Sophie
+c8ooh1-oo3-2	CCCCC(O[O])C(C)COO	! Confirmed by Sophie
+c8ket1-3-2	CCCCC(OO)C(C)C=O	! Confirmed by Sophie
+c8ooh1-3d	CCC[CH]C(C)CCOO	! Confirmed by Sophie
+c8ooh1-oo4-3	CCCC(O[O])C(C)CCOO	! Confirmed by Sophie
+c8ket1-4-3	CCCC(OO)C(C)CC=O	! Confirmed by Sophie
+c8ooh5-2a	[CH2]C(C)CCC(CC)OO	! Confirmed by Sophie
+c7ooh6-2d	CC(C)C[CH]CCOO	! Confirmed by Sophie
+c8ooh5-oo1-2	CCC(CCC(C)CO[O])OO	! Confirmed by Sophie
+c8h16o1-5-2	CCC1CCC(C)CO1	! Confirmed by Sophie
+c7ooh6-oo4-2	CC(C)CC(CCOO)O[O]	! Confirmed by Sophie
+c7h14o4-6-2	CC(C)CC1CCO1	! Confirmed by Sophie
+c8ket5-1-2	CCC(=O)CCC(C)COO	! Confirmed by Sophie
+c7ket6-4-2	CC(C)CC(CC=O)OO	! Confirmed by Sophie
+c8ooh4-3f	C[CH]CC(OO)C(C)CC	! Confirmed by Sophie
+c8h16o4-6-3	CCC(C)C1CC(C)O1	! Confirmed by Sophie
+c8ooh4-oo6-3	CCC(C)C(CC(C)O[O])OO	! Confirmed by Sophie
+c8ket4-6-3	CCC(C)C(=O)CC(C)OO	! Confirmed by Sophie
+
+bc5h11	CC[C](C)C	! Confirmed by Richard
+c4h8oh-1o2	CCC(CO)O[O]	! Confirmed by Richard
+c5h10oh-1	CCC[CH]CO	! Confirmed by Richard
+
+sc4h8oh	C[CH]C(C)O	! Confirmed by Sophie
+o2c5h10oh-1	CCCC(CO)O[O]	! Confirmed by Sophie
+c8ooh3-3e	CC[CH]CC(C)(CC)OO	! Confirmed by Sophie
+c7ooh4-2f	[CH2]CC(CC(C)C)OO	! Confirmed by Sophie
+c8ooh7-2e	CC(C)CC[CH]CCOO	! Confirmed by Sophie
+c8ooh2-3d	CCC[CH]C(C)C(C)OO	! Confirmed by Sophie
+c8ooh7-2d	CC(C)C[CH]CCCOO	! Confirmed by Sophie
+c8ooh7-3c	CC[C](C)CCCCOO	! Confirmed by Sophie
+c8ooh2-3e	CC[CH]CC(C)C(C)OO	! Confirmed by Sophie
+c8ooh6-2c	CC(C)[CH]CCC(C)OO	! Confirmed by Sophie
+c8ooh3-2a	[CH2]C(C)C(CCCC)OO	! Confirmed by Sophie
+c8ooh1-2e	CC[CH]CCC(C)COO	! Confirmed by Sophie
+c8ooh6-3d	CCC(C)[CH]CC(C)OO	! Confirmed by Sophie
+c4h8oh-2o2	CC(O)C(C)O[O]	! Confirmed by Sophie
+c8ooh3-oo5-3	CCC(CC(C)(CC)OO)O[O]	! Confirmed by Sophie
+c7h14o1-1-2	CCCCC(C)C=O	! Confirmed by Sophie
+c7ooh4-oo6-2	CC(C)CC(CCO[O])OO	! Confirmed by Sophie
+c8ooh7-oo5-2	CC(C)CCC(CCOO)O[O]	! Confirmed by Sophie
+c8ooh2-oo4-3	CCCC(O[O])C(C)C(C)OO	! Confirmed by Sophie
+c8ooh7-oo4-2	CC(C)CC(CCCOO)O[O]	! Confirmed by Sophie
+c8ooh7-oo3-3	CCC(C)(CCCCOO)O[O]	! Confirmed by Sophie
+c8ooh2-oo5-3	CCC(CC(C)C(C)OO)O[O]	! Confirmed by Sophie
+c8ooh6-oo3-2	CC(CCC(O[O])C(C)C)OO	! Confirmed by Sophie
+c8ooh3-oo1-2	CCCCC(OO)C(C)CO[O]	! Confirmed by Sophie
+c8ooh1-oo5-2	CCC(CCC(C)COO)O[O]	! Confirmed by Sophie
+c8h16o1-1-2	CCCCCC(C)C=O	! Confirmed by Sophie
+c8ooh6-oo4-3	CCC(C)C(CC(C)OO)O[O]	! Confirmed by Sophie
+c7ket4-6-2	CC(C)CC(=O)CCOO	! Confirmed by Sophie
+c8ket7-5-2	CC(C)CCC(CC=O)OO	! Confirmed by Sophie
+c8ket2-4-3	CCCC(OO)C(C)C(C)=O	! Confirmed by Sophie
+c8ket7-3-3	CCC(C)(CCCC=O)OO	! Confirmed by Sophie
+c8ket7-4-2	CC(C)CC(CCC=O)OO	! Confirmed by Sophie
+c8ket2-5-3	CCC(CC(C)C(C)=O)OO	! Confirmed by Sophie
+c8ket6-3-2	CC(=O)CCC(OO)C(C)C	! Confirmed by Sophie
+c8ket3-1-2	CCCCC(=O)C(C)COO	! Confirmed by Sophie
+c8ket1-5-2	CCC(CCC(C)C=O)OO	! Confirmed by Sophie
+c8ket6-4-3	CCC(C)C(CC(C)=O)OO	! Confirmed by Sophie
+c8h17-3z	[CH2]C(CC)CCCC	! Confirmed by Sophie
+c7h14-z-3	C=C(CC)CCC	! Confirmed by Sophie
+c8h16-z-3	C=C(CC)CCCC	! Confirmed by Sophie
+nc3h7coc3h6p	[CH2]CCC(=O)CCC	! Confirmed by Sophie
+nc8h17coch2	[CH2]C(=O)CCCCCCCC	! Confirmed by Sophie
+nc4h9coc2h4p	[CH2]CC(=O)CCCC	! Confirmed by Sophie
+ic4h9coch2	[CH2]C(=O)CC(C)C	! Confirmed by Sophie
+ic6h11	CC=C[C](C)C	! Confirmed by Sophie
+bc6h13	CCC[C](C)C	! Confirmed by Sophie
+cc6h13	CC[CH]C(C)C	! Confirmed by Sophie
+bc6h12	CCC=C(C)C	! Confirmed by Sophie
+ic4h9coc3h6p	[CH2]CCC(=O)CC(C)C	! Confirmed by Sophie
+c5coc3h6p	[CH2]CCC(=O)CCCCC	! Confirmed by Sophie
+c4coc3h6p	[CH2]CCC(=O)CCCC	! Confirmed by Sophie
+ic5h11coch2	[CH2]C(=O)CCC(C)C	! Confirmed by Sophie
+c7ooh1-2e	C[CH]CCC(C)COO	! Confirmed by Sophie
+c7ooh1-2c	CCC[CH]C(C)COO	! Confirmed by Sophie
+ic7h15coch2	[CH2]C(=O)C(C)CCC(C)C	! Confirmed by Sophie
+c7ooh1-oo3-2	CCCC(O[O])C(C)COO	! Confirmed by Sophie
+c7ooh1-oo5-2	CC(CCC(C)O[O])COO	! Confirmed by Sophie
+c7h14o1-3-2	CCCC1OCC1C	! Confirmed by Sophie
+c7h14o1-5-2	CC1CCC(C)OC1	! Confirmed by Sophie
+ic5h11coc3h6p	[CH2]CCC(=O)CCC(C)C	! Confirmed by Sophie
+ic7h15coc3h6p	[CH2]CCC(=O)C(C)CCC(C)C	! Confirmed by Sophie
+c7ket1-3-2	CCCC(OO)C(C)C=O	! Confirmed by Sophie
+c7ket1-5-2	CC(C=O)CCC(C)OO	! Confirmed by Sophie
+lc6h13	[CH2]CC(C)CC	! Confirmed by Sophie
+lc6h12	C=CC(C)CC	! Confirmed by Sophie
+oc6h13	[CH2]C(CC)CC	! Confirmed by Sophie
+mc6h13	C[CH]C(C)CC	! Confirmed by Sophie
+c6h12oh-2	CCC[CH]C(C)O	! Confirmed by Sophie
+o2c6h12oh-2	CCCC(O[O])C(C)O	! Confirmed by Sophie
+mc6h12	CCC=C(C)C	! Confirmed by Sophie
+nc6h12	C=C(CC)CC	! Confirmed by Sophie
+nc6h13	CC[C](C)CC	! Confirmed by Sophie
+
+
+c5h10oh-2	CC[CH]C(C)O	! Confirmed by Emily
+
+c8ooh2-2e	CC[CH]CCC(C)(C)OO	! Confirmed by Casey Kuehnapfel
+c8ooh2-oo5-2	CCC(CCC(C)(C)OO)O[O]	! Confirmed by Casey Kuehnapfel
+hoc3h6o2	CC(O)CO[O]	! Confirmed by Gregory Leo
+c3h6oh	[CH2]C(C)O	! Confirmed by Gregory Leo
+
+c6h12oh-3	CC[CH]C(O)CC	! Confirmed by emily
+nc6h13coch2	[CH2]C(=O)CCCCCC	! Confirmed by emily
+c8h17o-z-3	CCCCC(CC)C[O]	! Confirmed by emily
+c8ooh7-2c	CC(C)[CH]CCCCOO	! Confirmed by emily
+c8ooh1-2d	CCC[CH]CC(C)COO	! Confirmed by emily
+c8ooh2-2d	CCC[CH]CC(C)(C)OO	! Confirmed by emily
+c8ooh2-2f	C[CH]CCCC(C)(C)OO	! Confirmed by emily
+c8ooh3-2e	CC[CH]CC(OO)C(C)C	! Confirmed by emily
+c8ooh4-2b	CCCC(C[C](C)C)OO	! Confirmed by emily
+c8ooh4-2a	[CH2]C(C)CC(CCC)OO	! Confirmed by emily
+c8ooh5-2b	CCC(CC[C](C)C)OO	! Confirmed by emily
+c8ooh5-2c	CCC(C[CH]C(C)C)OO	! Confirmed by emily
+c8ooh6-2b	C[C](C)CCCC(C)OO	! Confirmed by emily
+c8ooh6-2d	CC(C)C[CH]CC(C)OO	! Confirmed by emily
+c8ooh1-oo4-2	CCCC(CC(C)COO)O[O]	! Confirmed by emily
+c8ooh2-oo4-2	CCCC(CC(C)(C)OO)O[O]	! Confirmed by emily
+c8ooh2-oo6-2	CC(CCCC(C)(C)OO)O[O]	! Confirmed by emily
+c8ooh3-oo5-2	CCC(CC(OO)C(C)C)O[O]	! Confirmed by emily
+c8ooh3-oo7-2	CC(C)C(CCCCO[O])OO	! Confirmed by emily
+c8ooh4-oo2-2	CCCC(CC(C)(C)O[O])OO	! Confirmed by emily
+c8ooh4-oo1-2	CCCC(CC(C)CO[O])OO	! Confirmed by emily
+c8ooh4-oo6-2	CC(C)CC(CC(C)O[O])OO	! Confirmed by emily
+c8ooh5-oo2-2	CCC(CCC(C)(C)O[O])OO	! Confirmed by emily
+c8ooh5-oo3-2	CCC(CC(O[O])C(C)C)OO	! Confirmed by emily
+c8ooh6-oo2-2	CC(CCCC(C)(C)O[O])OO	! Confirmed by emily
+c8ooh6-oo4-2	CC(C)CC(CC(C)OO)O[O]	! Confirmed by emily
+c8ooh7-oo3-2	CC(C)C(CCCCOO)O[O]	! Confirmed by emily
+c8h17oo-z-3	CCCCC(CC)CO[O]	! Confirmed by emily
+c8h17ooh-z-3	CCCCC(CC)COO	! Confirmed by emily
+c8ooh1-3z	[CH2]C(CCCC)CCOO	! Confirmed by emily
+c8ooh1-3c	CCCC[C](C)CCOO	! Confirmed by emily
+c8ooh2-3z	[CH2]C(CCCC)C(C)OO	! Confirmed by emily
+c8ooh3-3a	[CH2]CC(C)(CCCC)OO	! Confirmed by emily
+c8ooh3-3f	C[CH]CCC(C)(CC)OO	! Confirmed by emily
+c8ooh3-3z	[CH2]C(CC)(CCCC)OO	! Confirmed by emily
+c8ooh4-3g	[CH2]CCC(OO)C(C)CC	! Confirmed by emily
+c8ooh4-3z	[CH2]C(CC)C(CCC)OO	! Confirmed by emily
+c8ooh5-3g	[CH2]CC(CC(C)CC)OO	! Confirmed by emily
+c8ooh5-3z	[CH2]C(CC)CC(CC)OO	! Confirmed by emily
+c8ooh6-3c	CC[C](C)CCC(C)OO	! Confirmed by emily
+c8ooh6-3z	[CH2]C(CC)CCC(C)OO	! Confirmed by emily
+c8ooh7-3d	CCC(C)[CH]CCCOO	! Confirmed by emily
+c8ooh7-3e	CCC(C)C[CH]CCOO	! Confirmed by emily
+c8oohz-3a	[CH2]CC(CCCC)COO	! Confirmed by emily
+c8oohz-3f	C[CH]CCC(CC)COO	! Confirmed by emily
+c8oohz-3b	C[CH]C(CCCC)COO	! Confirmed by emily
+c8oohz-3c	CCCC[C](CC)COO	! Confirmed by emily
+c8oohz-3d	CCC[CH]C(CC)COO	! Confirmed by emily
+c8oohz-3e	CC[CH]CC(CC)COO	! Confirmed by emily
+c8ooh1-ooz-3	CCCCC(CCOO)CO[O]	! Confirmed by emily
+c8ooh1-oo3-3	CCCCC(C)(CCOO)O[O]	! Confirmed by emily
+c8ooh2-ooz-3	CCCCC(CO[O])C(C)OO	! Confirmed by emily
+c8ooh3-oo1-3	CCCCC(C)(CCO[O])OO	! Confirmed by emily
+c8ooh3-oo6-3	CCC(C)(CCC(C)O[O])OO	! Confirmed by emily
+c8ooh3-ooz-3	CCCCC(CC)(CO[O])OO	! Confirmed by emily
+c8ooh4-oo7-3	CCC(C)C(CCCO[O])OO	! Confirmed by emily
+c8ooh4-ooz-3	CCCC(OO)C(CC)CO[O]	! Confirmed by emily
+c8ooh5-oo7-3	CCC(C)CC(CCO[O])OO	! Confirmed by emily
+c8ooh5-ooz-3	CCC(CO[O])CC(CC)OO	! Confirmed by emily
+c8ooh6-oo3-3	CCC(C)(CCC(C)OO)O[O]	! Confirmed by emily
+c8ooh6-ooz-3	CCC(CCC(C)OO)CO[O]	! Confirmed by emily
+c8ooh7-oo4-3	CCC(C)C(CCCOO)O[O]	! Confirmed by emily
+c8ooh7-oo5-3	CCC(C)CC(CCOO)O[O]	! Confirmed by emily
+c8oohz-oo1-3	CCCCC(CCO[O])COO	! Confirmed by emily
+c8oohz-oo2-3	CCCCC(COO)C(C)O[O]	! Confirmed by emily
+c8oohz-oo3-3	CCCCC(CC)(COO)O[O]	! Confirmed by emily
+c8oohz-oo4-3	CCCC(O[O])C(CC)COO	! Confirmed by emily
+c8oohz-oo5-3	CCC(COO)CC(CC)O[O]	! Confirmed by emily
+c8oohz-oo6-3	CCC(CCC(C)O[O])COO	! Confirmed by emily
+o2c5h10oh-2	CCC(O[O])C(C)O	! Confirmed by emily
+o2c6h12oh-3	CCC(O)C(CC)O[O]	! Confirmed by emily
+c7h14oh-1	CCCCC[CH]CO	! Confirmed by emily
+c7h14oh-2	CCCC[CH]C(C)O	! Confirmed by emily
+c7h14oh-3	CCC[CH]C(O)CC	! Confirmed by emily
+o2c7h14oh-1	CCCCCC(CO)O[O]	! Confirmed by emily
+o2c7h14oh-2	CCCCC(O[O])C(C)O	! Confirmed by emily
+o2c7h14oh-3	CCCC(O[O])C(O)CC	! Confirmed by emily
+c6coc2h4p	[CH2]CC(=O)CCCCCC	! Confirmed by emily
+nc3h7coc2h3	C=CC(=O)CCC	! Confirmed by emily
+c5h11coc2h3	C=CC(=O)CCCCC	! Confirmed by emily
+nc3h7chco	CCCC=C=O	! Confirmed by emily
+nc4h9chco	CCCCC=C=O	! Confirmed by emily
+c5h11chco	CCCCCC=C=O	! Confirmed by emily
+nc4h9coc2h3	C=CC(=O)CCCC	! Confirmed by emily
+c6h13coc2h3	C=CC(=O)CCCCCC	! Confirmed by emily
+c6h13chco	CCCCCCC=C=O	! Confirmed by emily
+c7h15chco	CCCCCCCC=C=O	! Confirmed by emily
+ic8h17coch2	[CH2]C(=O)C(C)CCCC(C)C	! Confirmed by emily
+nc8h17coc2h4p	[CH2]CC(=O)CCCCCCCC	! Confirmed by emily
+nc7h15coc2h4p	[CH2]CC(=O)CCCCCCC	! Confirmed by emily
+nc8h17coc3h6p	[CH2]CCC(=O)CCCCCCCC	! Confirmed by emily
+nc7h15coc3h6p	[CH2]CCC(=O)CCCCCCC	! Confirmed by emily
+nc6h13coc3h6p	[CH2]CCC(=O)CCCCCC	! Confirmed by emily
+ic6h13coc3h6p	[CH2]CCC(=O)CCCC(C)C	! Confirmed by emily
+ic8h17coc3h6p	[CH2]CCC(=O)CCCCCC(C)C	! Confirmed by emily
+ic3h7chco	CC(C)C=C=O	! Confirmed by emily
+c7ooh1-2d	CC[CH]CC(C)COO	! Confirmed by emily
+c7ooh2-2d	CC[CH]CC(C)(C)OO	! Confirmed by emily
+c7ooh2-2e	C[CH]CCC(C)(C)OO	! Confirmed by emily
+c7ooh2-2f	[CH2]CCCC(C)(C)OO	! Confirmed by emily
+c7ooh3-2a	[CH2]C(C)C(CCC)OO	! Confirmed by emily
+c7ooh3-2e	C[CH]CC(OO)C(C)C	! Confirmed by emily
+c7ooh3-2f	[CH2]CCC(OO)C(C)C	! Confirmed by emily
+c7ooh4-2a	[CH2]C(C)CC(CC)OO	! Confirmed by emily
+c7ooh4-2b	CCC(C[C](C)C)OO	! Confirmed by emily
+c7ooh5-2a	[CH2]C(C)CCC(C)OO	! Confirmed by emily
+c7ooh5-2b	C[C](C)CCC(C)OO	! Confirmed by emily
+c7ooh5-2c	CC(C)[CH]CC(C)OO	! Confirmed by emily
+c7ooh6-2b	C[C](C)CCCCOO	! Confirmed by emily
+c7ooh6-2c	CC(C)[CH]CCCOO	! Confirmed by emily
+c7ooh1-oo4-2	CCC(CC(C)COO)O[O]	! Confirmed by emily
+c7ooh2-oo4-2	CCC(CC(C)(C)OO)O[O]	! Confirmed by emily
+c7ooh2-oo5-2	CC(CCC(C)(C)OO)O[O]	! Confirmed by emily
+c7ooh2-oo6-2	CC(C)(CCCCO[O])OO	! Confirmed by emily
+c7ooh3-oo1-2	CCCC(OO)C(C)CO[O]	! Confirmed by emily
+c7ooh3-oo5-2	CC(CC(OO)C(C)C)O[O]	! Confirmed by emily
+c7ooh3-oo6-2	CC(C)C(CCCO[O])OO	! Confirmed by emily
+c7ooh4-oo2-2	CCC(CC(C)(C)O[O])OO	! Confirmed by emily
+c7ooh4-oo1-2	CCC(CC(C)CO[O])OO	! Confirmed by emily
+c7ooh5-oo1-2	CC(CCC(C)OO)CO[O]	! Confirmed by emily
+c7ooh5-oo2-2	CC(CCC(C)(C)O[O])OO	! Confirmed by emily
+c7ooh5-oo3-2	CC(CC(O[O])C(C)C)OO	! Confirmed by emily
+c7ooh6-oo2-2	CC(C)(CCCCOO)O[O]	! Confirmed by emily
+c7ooh6-oo3-2	CC(C)C(CCCOO)O[O]	! Confirmed by emily
+c7h14o1-4-2	CCC1CC(C)CO1	! Confirmed by emily
+c7h14o2-4-2	CCC1CC(C)(C)O1	! Confirmed by emily
+c7h14o2-5-2	CC1CCC(C)(C)O1	! Confirmed by emily
+c7h14o2-6-2	CC1(C)CCCCO1	! Confirmed by emily
+c7h14o3-5-2	CC1CC(O1)C(C)C	! Confirmed by emily
+c7h14o3-6-2	CC(C)C1CCCO1	! Confirmed by emily
+c7ket1-4-2	CCC(CC(C)C=O)OO	! Confirmed by Emily
+c7ket3-1-2	CCCC(=O)C(C)COO	! Confirmed by Emily
+c7ket3-5-2	CC(CC(=O)C(C)C)OO	! Confirmed by Emily
+c7ket3-6-2	CC(C)C(=O)CCCOO	! Confirmed by Emily
+c7ket4-1-2	CCC(=O)CC(C)COO	! Confirmed by Emily
+c7ket4-2-2	CCC(=O)CC(C)(C)OO	! Confirmed by Emily
+c7ket5-1-2	CC(=O)CCC(C)COO	! Confirmed by Emily
+c7ket5-2-2	CC(=O)CCC(C)(C)OO	! Confirmed by Emily
+c7ket5-3-2	CC(=O)CC(OO)C(C)C	! Confirmed by Emily
+c7ket6-2-2	CC(C)(CCCC=O)OO	! Confirmed by Emily
+c7ket6-3-2	CC(C)C(CCC=O)OO	! Confirmed by Emily
+c8h15-1-2	[CH2]C(C)=CCCCC	! Confirmed by Emily
+c8ooh3-2g	[CH2]CCCC(OO)C(C)C	! Confirmed by Emily
+c8ooh4-2f	C[CH]CC(CC(C)C)OO	! Confirmed by Emily
+c8h16o1-4-2	CCCC1CC(C)CO1	! Confirmed by Emily
+c8h16o2-4-2	CCCC1CC(C)(C)O1	! Confirmed by Emily
+c8h16o2-5-2	CCC1CCC(C)(C)O1	! Confirmed by Emily
+c8h16o2-6-2	CC1CCCC(C)(C)O1	! Confirmed by Emily
+c8h16o3-5-2	CCC1CC(O1)C(C)C	! Confirmed by Emily
+c8h16o3-7-2	CC(C)C1CCCCO1	! Confirmed by Emily
+c8h16o4-6-2	CC(C)CC1CC(C)O1	! Confirmed by Emily
+c8ket1-1-2	CCCCCC(C)C([O])O[O]	! Confirmed by Emily
+c8ket1-4-2	CCCC(CC(C)C=O)OO	! Confirmed by Emily
+c8ket3-5-2	CCC(CC(=O)C(C)C)OO	! Confirmed by Emily
+c8ket3-7-2	CC(C)C(=O)CCCCOO	! Confirmed by Emily
+c8ket4-1-2	CCCC(=O)CC(C)COO	! Confirmed by Emily
+c8ket4-2-2	CCCC(=O)CC(C)(C)OO	! Confirmed by Emily
+c8ket4-6-2	CC(C)CC(=O)CC(C)OO	! Confirmed by Emily
+c8ket5-2-2	CCC(=O)CCC(C)(C)OO	! Confirmed by Emily
+c8ket5-3-2	CCC(=O)CC(OO)C(C)C	! Confirmed by Emily
+c8ket6-2-2	CC(=O)CCCC(C)(C)OO	! Confirmed by Emily
+c8ket6-4-2	CC(=O)CC(CC(C)C)OO	! Confirmed by Emily
+c8ket7-3-2	CC(C)C(CCCC=O)OO	! Confirmed by Emily
+c7h13-1-3	[CH2]C=CC(C)CC	! Confirmed by Emily
+c8h15-1-3	[CH2]C=CCC(C)CC	! Confirmed by Emily
+c8h16o1-z-3	CCCCC1CCOC1	! Confirmed by Emily
+c8h16o1-3-3	CCCCC1(C)CCO1	! Confirmed by Emily
+c8h16o2-z-3	CCCCC1COC1C	! Confirmed by Emily
+c8h16o3-6-3	CCC1(C)CCC(C)O1	! Confirmed by Emily
+c8h16o3-z-3	CCCCC1(CC)CO1	! Confirmed by Emily
+c8h16o4-7-3	CCC(C)C1CCCO1	! Confirmed by Emily
+c8h16o4-z-3	CCCC1OCC1CC	! Confirmed by Emily
+c8h16o5-7-3	CCC(C)CC1CCO1	! Confirmed by Emily
+c8h16o5-z-3	CCC1COC(CC)C1	! Confirmed by Emily
+c8h16o6-z-3	CCC1CCC(C)OC1	! Confirmed by Emily
+c8ket1-z-3	CCCCC(CC=O)COO	! Confirmed by Emily
+c8ket1-3-3	CCCCC(C)(CC=O)OO	! Confirmed by Emily
+c8ket2-z-3	CCCCC(COO)C(C)=O	! Confirmed by Emily
+c8ket4-7-3	CCC(C)C(=O)CCCOO	! Confirmed by Emily
+c8ket4-z-3	CCCC(=O)C(CC)COO	! Confirmed by Emily
+c8ket5-7-3	CCC(C)CC(=O)CCOO	! Confirmed by Emily
+c8ket5-z-3	CCC(=O)CC(CC)COO	! Confirmed by Emily
+c8ket6-3-3	CCC(C)(CCC(C)=O)OO	! Confirmed by Emily
+c8ket6-z-3	CCC(CCC(C)=O)COO	! Confirmed by Emily
+c8ket7-4-3	CCC(C)C(CCC=O)OO	! Confirmed by Emily
+c8ket7-5-3	CCC(C)CC(CC=O)OO	! Confirmed by Emily
+c8ketz-1-3	CCCCC(C=O)CCOO	! Confirmed by Emily
+c8ketz-3-3	CCCCC(C=O)(CC)OO	! Confirmed by Emily
+c8ketz-2-3	CCCCC(C=O)C(C)OO	! Confirmed by Emily
+c8ketz-4-3	CCCC(OO)C(C=O)CC	! Confirmed by Emily
+c8ketz-5-3	CCC(C=O)CC(CC)OO	! Confirmed by Emily
+c8ketz-6-3	CCC(C=O)CCC(C)OO	! Confirmed by Emily
+pc4h8oh	CC[CH]CO	! Confirmed by Emily
+c7ket1-1-2	CCCCC(C)C(=O)OO	! Confirmed by Emily
+etes1	C=CCCC1CO1	! Confirmed by Emily
+c7h13-1-2	[CH2]C(C)=CCCC	! Confirmed by Emily
+cc4h8o	CC1COC1	! Confirmed by Emily
+nc7h15coch2	C=[C]OCCCCCCC	! Confirmed by Emily
+
+ic5ketab	CCC(C)(C=O)OO	! Confirmed by Eric Weinstein
+ic6ketec	CC(C)C(CC=O)OO	! Confirmed by Eric Weinstein
+ic6keteb	CC(C)(CCC=O)OO	! Confirmed by Eric Weinstein
+ic5ketdb	CC(C)(CC=O)OO	! Confirmed by Eric Weinstein
+ic6h13coch2	[CH2]CC(=O)CCC(C)C	! Confirmed by Eric Weinstein
+nc8h17coc2h3	C=CC(=O)CCCCCCCC	! Confirmed by Eric Weinstein
+nc7h15coc2h3	C=CC(=O)CCCCCCC	! Confirmed by Eric Weinstein
+nc6h13coc2h3	C=CC(=O)CCCCCC	! Confirmed by Eric Weinstein
+nc5h11coc2h3	C=CC(=O)CCCCC	! Confirmed by Eric Weinstein
+nc5h11chco	CCCCCC=C=O	! Confirmed by Eric Weinstein
+nc6h13chco	CCCCCCC=C=O	! Confirmed by Eric Weinstein
+nc7h15chco	CCCCCCCC=C=O	! Confirmed by Eric Weinstein
+

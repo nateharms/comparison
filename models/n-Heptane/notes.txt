@@ -1,0 +1,31 @@
+======
+ETES1
+======
+
+ETES1 represents several species.
+Based on the rate constants and table 7 of reference [1] it is clearly a Cyclic Ether.
+It is formed by eliminating OH from:
+C6H101OOH3-4
+C6H101OOH4-3
+C6H101OOH4-5
+C6H101OOH4-6
+C6H101OOH5-4
+C6H101OOH5-6
+C6H101OOH6-4
+C6H101OOH6-5
+C6H102OOH4-5
+C6H102OOH4-6
+C6H102OOH5-4
+C6H102OOH5-6
+C6H102OOH6-4
+C6H102OOH6-5
+C6H103OOH2-1
+C6H103OOH1-2
+Most of the rates correspond to a Ring Size 3, but some to a ring size 4. It must be designed to represent both.
+
+When you abstract an H from it, it falls apart to C2H3COCH3 + C2H3
+(see reactions in "ABSTRACTION ON ETEROCYCLES" section)
+...but that is also true of MVOX, VTHF, EDHF, so doesn't really give much information.
+Probably these also represent several species.
+
+[1]	Curran, H. J.; Gaffuri, P.; Pitz, W. J.; Westbrook, C. K. “A Comprehensive Modeling Study of n-Heptane Oxidation.” Combust. Flame 1998, 114, 149–177 [doi:10.1016/S0010-2180(97)00282-4].

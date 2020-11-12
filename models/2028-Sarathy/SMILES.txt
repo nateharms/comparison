@@ -1,0 +1,443 @@
+h2	[H][H]
+co2	O=C=O
+co	[C-]#[O+]
+ch4	C
+c2h4	C=C
+c2h2	C#C
+c2h6	CC
+c3h6	C=CC
+c3h8	CCC
+c3h4-a	C=C=C
+c3h-p	C#CC
+ch3oh	CO
+c4h8-1	C=CCC
+c4h6	C=CC=C
+c4h10	CCCC
+c2h5oh	CCO
+c2h3	[CH]=C
+ch2co	C=C=O
+ch3cho	CC=O
+h2o	O
+ch2cho	C=C[O]
+ch2o	C=O
+c2h5	C[CH2]
+h	[H]
+o	[O]
+o2	[O][O]
+oh	[OH]
+ho2	[O]O
+h2o2	OO
+c	[C]
+ch	[CH]
+ch2	[CH2]
+ch2(s)	[CH2]
+ch3	[CH3]
+hco	[CH]=O
+ch2oh	[CH2]O
+ch3o	C[O]
+c2h	[C]#C
+hcco	C#C[O]
+hccoh	C#CO
+hoc2h4o2	[O]OCCO
+c3h2	[C]=C=C
+pc3h3	C#C[CH2]
+c3h5-a	[CH2]C=C
+n2	N#N
+ar	[Ar]
+ch3co	C[C]=O
+c4h5	[CH]=CC=C
+nc4h9oh	CCCCO
+c4h8oh-1	CCC[CH]O
+c4h8oh-2	CC[CH]CO
+c4h8oh-3	C[CH]CCO
+c4h8oh-4	[CH2]CCCO
+pc4h9o	CCCC[O]
+c4h6oh1-32	C=C(O)[CH]C
+c4h7oh1-1	CCC=CO
+c4h6oh1-13	CC=C[CH]O
+c4h5oh-13	C=CC=CO
+c4h7oh2-1	CC=CCO
+c4h7oh1-4	C=CCCO
+sc4h9oh	CCC(C)O
+sc4h8ohm	[CH2]C(O)CC
+sc4h8oh-1	CC[C](C)O
+sc4h8oh-2	C[CH]C(C)O
+sc4h8oh-3	[CH2]CC(C)O
+sc4h9o	CCC(C)[O]
+tc4h9oh	CC(C)(C)O
+tc4h8oh	[CH2]C(C)(C)O
+tc4h8o	CC(C)(C)[O]
+ic4h9oh	CC(C)CO
+ic4h8oh-1	CC(C)[CH]O
+ic4h8oh-2	C[C](C)CO
+ic4h8oh-3	[CH2]C(C)CO
+ic4h9o	CC(C)C[O]
+ic3h6oh	[CH2]C(C)O
+c3h6oh-1	CC[CH]O
+c4h7oh2-2	CC=C(C)O
+c4h7oh1-2	C=C(O)CC
+c4h7oh1-3	C=CC(C)O
+ch3chchoh	CC=CO
+c3h6oh-2	C[CH]CO
+c3h5oh	C=CCO
+ic3h6choh	CC(C)=CO
+ic3h5ch2oh	C=C(C)CO
+c4h8oh-1o2	CCCC(O)O[O]
+c4h8oh-2o2	CCC(CO)O[O]
+c4h8oh-3o2	CC(CCO)O[O]
+c4h8oh-4o2	[O]OCCCCO
+c4h7oh-1ooh-2	CC[CH]C(O)OO
+c4h7oh-1ooh-3	C[CH]CC(O)OO
+c4h7oh-1ooh-4	[CH2]CCC(O)OO
+c4h7oh-2ooh-4	[CH2]CC(CO)OO
+c4h7oh-2ooh-3	C[CH]C(CO)OO
+c4h7oh-2ooh-1	CCC([CH]O)OO
+c4h7oh-3ooh-1	CC(C[CH]O)OO
+c4h7oh-3ooh-4	[CH2]C(CCO)OO
+c4h7oh-3ooh-2	CC([CH]CO)OO
+c4h7oh-4ooh-3	OCC[CH]COO
+c4h7oh-4ooh-2	OC[CH]CCOO
+c4h7oh-4ooh-1	O[CH]CCCOO
+c4h7oh-1ooh-2o2	CCC(O[O])C(O)OO
+c4h7oh-1ooh-3o2	CC(CC(O)OO)O[O]
+c4h7oh-1ooh-4o2	[O]OCCCC(O)OO
+c4h7oh-2ooh-1o2	CCC(OO)C(O)O[O]
+c4h7oh-2ooh-3o2	CC(O[O])C(CO)OO
+c4h7oh-2ooh-4o2	[O]OCCC(CO)OO
+c4h7oh-3ooh-1o2	CC(CC(O)O[O])OO
+c4h7oh-3ooh-2o2	CC(OO)C(CO)O[O]
+c4h7oh-3ooh-4o2	[O]OCC(CCO)OO
+c4h7oh-4ooh-1o2	[O]OC(O)CCCOO
+c4h7oh-4ooh-2o2	[O]OC(CO)CCOO
+c4h7oh-4ooh-3o2	[O]OC(CCO)COO
+c4ohket1-2	CCC(OO)C(=O)O
+c4ohket1-3	CC(CC(=O)O)OO
+c4ohket1-4	O=C(O)CCCOO
+c4ohket2-1	CCC(=O)C(O)OO
+c4ohket2-3	CC(OO)C(=O)CO
+c4ohket2-4	O=C(CO)CCOO
+c4ohket3-1	CC(=O)CC(O)OO
+c4ohket3-2	CC(=O)C(CO)OO
+c4ohket3-4	O=C(CCO)COO
+c4ohket4-1	O=CCCC(O)OO
+c4ohket4-2	O=CCC(CO)OO
+c4ohket4-3	O=CC(CCO)OO
+c4h7oho1-2	CC1CC(O)O1
+c4h7oho1-3	CC1CC(O)O1
+c4h7oho1-4	OC1CCCO1
+c4h7oho2-3	CC1OC1CO
+c4h7oho2-4	OCC1CCO1
+c4h7oho3-4	OCCC1CO1
+c4h8oh-1o2h	CCCC(O)OO
+c4h8oh-2o2h	CCC(CO)OO
+c4h8oh-3o2h	CC(CCO)OO
+c4h8oh-4o2h	OCCCCOO
+c4h8oh-1o	CCCC([O])O
+c4h8oh-2o	CCC([O])CO
+c4h8oh-3o	CC([O])CCO
+c4h8oh-4o	[O]CCCCO
+hoch2cho	O=CCO
+hoch2co	O=[C]CO
+hoc2h4cho	O=CCCO
+hoc2h4co	O=[C]CCO
+ic4h8oh-1o2	CC(C)C(O)O[O]
+ic4h8oh-2o2	CC(C)(CO)O[O]
+ic4h8oh-3o2	CC(CO)CO[O]
+ic4h7oh-1ooh-2	C[C](C)C(O)OO
+ic4h7oh-1ooh-3	[CH2]C(C)C(O)OO
+ic4h7oh-2ooh-3	[CH2]C(C)(CO)OO
+ic4h7oh-2ooh-1	CC(C)([CH]O)OO
+ic4h7oh-3ooh-1	CC([CH]O)COO
+ic4h7oh-3ooh-2	C[C](CO)COO
+ic4h7oh-3ooh-3	[CH2]C(CO)COO
+ic4h7oh-1ooh-2o2	CC(C)(O[O])C(O)OO
+ic4h7oh-1ooh-3o2	CC(CO[O])C(O)OO
+ic4h7oh-2ooh-1o2	CC(C)(OO)C(O)O[O]
+ic4h7oh-2ooh-3o2	CC(CO)(CO[O])OO
+ic4h7oh-3ooh-1o2	CC(COO)C(O)O[O]
+ic4h7oh-3ooh-2o2	CC(CO)(COO)O[O]
+ic4h7oh-3ooh-3o2	[O]OCC(CO)COO
+ic4ohket1-2	CC(C)(OO)C(=O)O
+ic4ohket1-3	CC(COO)C(=O)O
+ic4ohket3-1	CC(C=O)C(O)OO
+ic4ohket3-2	CC(C=O)(CO)OO
+ic4ohket3-3	O=CC(CO)COO
+ic4h7oho1-2	CC1(C)OC1O
+ic4h7oho1-3	CC1COC1O
+ic4h7oho2-3	CC1(CO)CO1
+ic4h7oho3-3	OCC1COC1
+ic4h8oh-1o2h	CC(C)C(O)OO
+ic4h8oh-2o2h	CC(C)(CO)OO
+ic4h8oh-3o2h	CC(CO)COO
+ic4h8oh-1o	CC(C)C([O])O
+ic4h8oh-2o	CC(C)([O])CO
+ic4h8oh-3o	CC(C[O])CO
+tc4h8oh-o2	CC(C)(O)CO[O]
+tc4h7oh-ooh	[CH2]C(C)(O)COO
+tc4h8o-ooh	CC(C)([O])COO
+tc4h7oh-ooh-o2	CC(O)(CO[O])COO
+tc4ohket	CC(O)(C=O)COO
+tc4h7oho	CC1(O)COC1
+tc4h8oh-o2h	CC(C)(O)COO
+tc4h8oh-o	CC(C)(O)C[O]
+sc4h8oh-1o2	CCC(C)(O)O[O]
+sc4h8oh-2o2	CC(O)C(C)O[O]
+sc4h8oh-3o2	CC(O)CCO[O]
+sc4h8oh-mo2	CCC(O)CO[O]
+sc4h7oh-1ooh-2	C[CH]C(C)(O)OO
+sc4h7oh-1ooh-3	[CH2]CC(C)(O)OO
+sc4h7oh-1ooh-m	[CH2]C(O)(CC)OO
+sc4h7oh-2ooh-m	[CH2]C(O)C(C)OO
+sc4h7oh-2ooh-3	[CH2]C(OO)C(C)O
+sc4h7oh-2ooh-1	C[C](O)C(C)OO
+sc4h7oh-3ooh-1	C[C](O)CCOO
+sc4h7oh-3ooh-m	[CH2]C(O)CCOO
+sc4h7oh-3ooh-2	CC(O)[CH]COO
+sc4h7oh-mooh-3	[CH2]CC(O)COO
+sc4h7oh-mooh-2	C[CH]C(O)COO
+sc4h7oh-mooh-1	CC[C](O)COO
+sc4h7oh-1ooh-2o2	CC(O[O])C(C)(O)OO
+sc4h7oh-1ooh-3o2	CC(O)(CCO[O])OO
+sc4h7oh-1ooh-mo2	CCC(O)(CO[O])OO
+sc4h7oh-2ooh-1o2	CC(OO)C(C)(O)O[O]
+sc4h7oh-2ooh-3o2	CC(O)C(CO[O])OO
+sc4h7oh-2ooh-mo2	CC(OO)C(O)CO[O]
+sc4h7oh-3ooh-1o2	CC(O)(CCOO)O[O]
+sc4h7oh-3ooh-2o2	CC(O)C(COO)O[O]
+sc4h7oh-3ooh-mo2	[O]OCC(O)CCOO
+sc4h7oh-mooh-1o2	CCC(O)(COO)O[O]
+sc4h7oh-mooh-2o2	CC(O[O])C(O)COO
+sc4h7oh-mooh-3o2	[O]OCCC(O)COO
+sc4ohket2-1	CC(=O)C(C)(O)OO
+sc4ohket2-3	CC(O)C(=O)COO
+sc4ohket2-m	CC(=O)C(O)COO
+sc4ohket3-1	CC(O)C(C=O)OO
+sc4ohket3-2	CC(O)(CC=O)OO
+sc4ohket3-m	O=CCC(O)COO
+sc4ohketm-1	CCC(O)(C=O)OO
+sc4ohketm-2	CCC(O)(C=O)OO
+sc4ohketm-3	O=CC(O)CCOO
+sc4h7oho1-2	CC1OC1(C)O
+sc4h7oho1-3	CC1OC1(C)O
+sc4h7oho1-m	CCC1(O)CO1
+sc4h7oho2-3	CC(O)C1CO1
+sc4h7oho2-m	CC1OCC1O
+sc4h7oho3-m	OC1CCOC1
+sc4h8oh-1o2h	CCC(C)(O)OO
+sc4h8oh-2o2h	CC(O)C(C)OO
+sc4h8oh-3o2h	CC(O)CCOO
+sc4h8oh-mo2h	CCC(O)COO
+sc4h8oh-1o	CCC(C)([O])O
+sc4h8oh-2o	CC([O])C(C)O
+sc4h8oh-3o	CC(O)CC[O]
+sc4h8oh-mo	CCC(O)C[O]
+oh*	[OH]
+ch*	[CH]
+he	[He]
+c2h3oh	C=CO	! Confirmed by Pierre
+
+c4h71-3	C=C[CH]C	! Confirmed by Pierre
+ic3h7cho	CC(C)C=O	! Confirmed by Pierre
+nc3h7	[CH2]CC	! Confirmed by Pierre
+pc2h4oh	[CH2]CO	! Confirmed by Pierre
+sc2h4oh	C[CH]O	! Confirmed by Pierre
+sc4h9	C[CH]CC	! Confirmed by Pierre
+c4h8-2	CC=CC	! Confirmed by Pierre
+c3h3	C#C[CH2]	! Confirmed by Pierre
+c3h4-p	C#CC	! Confirmed by Pierre
+pc4h9o2h	CCCCOO	! Confirmed by Pierre
+pc4h9o2	CCCCO[O]	! Confirmed by Pierre
+ch2cch2oh	C=[C]CO	! Confirmed by Pierre
+c4h5-n	[CH]=CC=C	! Confirmed by Pierre
+c4h71-4	[CH2]CC=C	! Confirmed by Pierre
+ic3h7	C[CH]C	! Confirmed by Pierre
+c2h5cho	CCC=O	! Confirmed by Pierre
+hocho	O=CO	! Confirmed by Pierre
+c2h5co	CC[C]=O	! Confirmed by Pierre
+pc4h9	[CH2]CCC	! Confirmed by Pierre
+ch3coch3	CC(C)=O	! Confirmed by Pierre
+ic3h5oh	C=C(C)O	! Confirmed by Pierre
+c4h5-i	C=[C]C=C	! Confirmed by Pierre
+ch3coch2	[CH2]C(C)=O	! Confirmed by Pierre
+h2cc	[C]=C	! Confirmed by Pierre
+tc4h9o	CC(C)(C)[O]	! Confirmed by Pierre
+ch3o2h	COO	! Confirmed by Pierre
+ch3o2	CO[O]	! Confirmed by Pierre
+c2h2oh	[CH]=CO	! Confirmed by Pierre
+ch2ch2cho	[CH2]CC=O	! Confirmed by Pierre
+c4h4	C#CC=C	! Confirmed by Pierre
+c4h71-1	[CH]=CCC	! Confirmed by Pierre
+ic4h10	CC(C)C	! Confirmed by Pierre
+tc4h9	C[C](C)C	! Confirmed by Pierre
+ic4h8	C=C(C)C	! Confirmed by Pierre
+ch3ocho	COC=O	! Confirmed by Pierre
+ch3och2	[CH2]OC	! Confirmed by Pierre
+ch3och3	COC	! Confirmed by Pierre
+ho2cho	O=COO	! Confirmed by Pierre
+ocho	[O]C=O	! Confirmed by Pierre
+ic4h9	[CH2]C(C)C	! Confirmed by Pierre
+c2h5o	CC[O]	! Confirmed by Pierre
+tc3h6oh	C[C](C)O	! Confirmed by Pierre
+ic4h7	[CH2]C(=C)C	! Confirmed by Pierre
+hoch2o	[O]CO	! Confirmed by Pierre
+ch2ocho	[CH2]OC=O	! Confirmed by Pierre
+c4h71-2	C=[C]CC	! Confirmed by Pierre
+ic3h7o	CC(C)[O]	! Confirmed by Pierre
+ch3och2o	COC[O]	! Confirmed by Pierre
+nc3h7cho	CCCC=O	! Confirmed by Pierre
+c3ket21	CC(=O)COO	! Confirmed by Pierre
+nc3h7o	CCC[O]	! Confirmed by Pierre
+nc3h7co	CCC[C]=O	! Confirmed by Pierre
+c4h72-2	C[C]=CC	! Confirmed by Pierre
+c2h3cho	C=CC=O	! Confirmed by Pierre
+c2h5o2h	CCOO	! Confirmed by Pierre
+c2h5o2	CCO[O]	! Confirmed by Pierre
+c2h3co	C=C[C]=O	! Confirmed by Pierre
+c3h6cho-1	[CH2]CCC=O	! Confirmed by Pierre
+ic3h6cho	[CH2]C(C)C=O	! Confirmed by Pierre
+o2cho	[O]OC=O	! Confirmed by Pierre
+ch2o2h	[CH2]OO	! Confirmed by Pierre
+ch2chchcho	[CH2]C=CC=O	! Confirmed by Pierre
+ch3chchcho	CC=CC=O	! Confirmed by Pierre
+ch3oco	CO[C]=O	! Confirmed by Pierre
+c2h3choch2	[CH2]C=CO[CH2]	! Confirmed by Pierre
+ch3chchco	CC=C[C]=O	! Confirmed by Pierre
+ch3och2o2h	COCOO	! Confirmed by Pierre
+c4h2	C#CC#C	! Confirmed by Pierre
+tc3h6ocho	CC(C)([O])C=O	! Confirmed by Pierre
+ic3h7co	CC(C)[C]=O	! Confirmed by Pierre
+tc3h6cho	C[C](C)C=O	! Confirmed by Pierre
+
+c4h3-i	C#C[C]=C	! Confirmed by Pierre
+c4h3-n	[CH]=CC#C	! Confirmed by Pierre
+c2h5coch3	CCC(C)=O	! Confirmed by Pierre
+c2h5coch2	[CH2]C(=O)CC	! Confirmed by Pierre
+ch2ch2coch3	[CH2]CC(C)=O	! Confirmed by Pierre
+ch3chcoch3	CC=C(C)[O]	! Confirmed by Pierre
+c3h6cho-3	CC[CH]C=O	! Confirmed by Pierre
+ch3och2o2	COCO[O]	! Confirmed by Pierre
+
+ch3coch2o2	CC(=O)CO[O]	! Confirmed by Pierre
+o2ch2cho	[O]OCC=O	! Confirmed by Pierre
+ho2ch2co	O=[C]COO	! Confirmed by Pierre
+hoch2oco	O=[C]OCO	! Confirmed by Pierre
+och2ocho	[O]COC=O	! Confirmed by Pierre
+
+c3h6cho-2	C[CH]CC=O	! Confirmed by Pierre
+c2h4o1-2	C1CO1	! Confirmed by Pierre
+c2h4o2h	[CH2]COO	! Confirmed by Pierre
+c2h3o1-2	[CH]1CO1	! Confirmed by Pierre
+tc3h6ohcho	CC(C)(O)C=O	! Confirmed by Pierre
+c3h5o	C=CC[O]	! Confirmed by Pierre
+nc3h7o2	CCCO[O]	! Confirmed by Pierre
+nc3h7o2h	CCCOO	! Confirmed by Pierre
+c3h6ooh1-2	C[CH]COO	! Confirmed by Pierre
+hoch2o2h	OCOO	! Confirmed by Pierre
+c4h8ooh1-1	CCC[CH]OO	! Confirmed by Pierre
+ic4h9o2	CC(C)CO[O]	! Confirmed by Pierre
+ic4h9o2h	CC(C)COO	! Confirmed by Pierre
+o2c2h4oh	[O]OCCO	! Confirmed by Pierre
+c4h8ooh2-2	CC[C](C)OO	! Confirmed by Pierre
+c3ket12	CC(C=O)OO	! Confirmed by Pierre
+c3h6ooh1-2o2	CC(COO)O[O]	! Confirmed by Pierre
+
+c4h6o23	C1=COCC1	! Confirmed by Pierre
+c4h5-2	C=C=[C]C	! Confirmed by Pierre
+c4h612	C=C=CC	! Confirmed by Pierre
+c4h6-2	CC#CC	! Confirmed by Pierre
+c3h6ooh2-1o2	CC(CO[O])OO	! Confirmed by Pierre
+c2h3ooh	C=COO	! Confirmed by Pierre
+c3h6ooh2-1	[CH2]C(C)OO	! Confirmed by Pierre
+ic3h7o2	CC(C)O[O]	! Confirmed by Pierre
+c3h6o1-2	CC1CO1	! Confirmed by Pierre
+ic3h7o2h	CC(C)OO	! Confirmed by Pierre
+c3h6ooh2-2	C[C](C)OO	! Confirmed by Pierre
+c4h8ooh1-2	CC[CH]COO	! Confirmed by Pierre
+c4h8o1-2	CCC1CO1	! Confirmed by Pierre
+c4h8ooh1-2o2	CCC(COO)O[O]	! Confirmed by Pierre
+nc4ket12	CCC(C=O)OO	! Confirmed by Pierre
+c2h5chco	CCC=C=O	! Confirmed by Pierre
+c3h51-2,3ooh	[CH2]C(COO)OO	! Confirmed by Pierre
+c3ket13	O=CCCOO	! Confirmed by Pierre
+c4h8ooh2-1	[CH2]C(CC)OO	! Confirmed by Pierre
+ch3co2	CC([O])=O	! Confirmed by Pierre
+ch3co3	CC(=O)O[O]	! Confirmed by Pierre
+c2h3coch3	C=CC(C)=O	! Confirmed by Pierre
+ch3co3h	CC(=O)OO	! Confirmed by Pierre
+ch2choohcoch3	[CH2]C(OO)C(C)=O	! Confirmed by Pierre
+sc4h9o2h	CCC(C)OO	! Confirmed by Pierre
+ch3choococh3	CC(=O)C(C)O[O]	! Confirmed by Pierre
+sc4h9o2	CCC(C)O[O]	! Confirmed by Pierre
+ho2ch2ocho	O=COCOO	! Confirmed by Pierre
+ic4h8o2h-t	C[C](C)COO	! Confirmed by Pierre
+tc4h8o2h-i	[CH2]C(C)(C)OO	! Confirmed by Pierre
+tc4h9o2	CC(C)(C)O[O]	! Confirmed by Pierre
+ic3h5cho	C=C(C)C=O	! Confirmed by Pierre
+tc4h9o2h	CC(C)(C)OO	! Confirmed by Pierre
+
+c4h4o	C1C=COC=1	! Confirmed by Pierre
+ic3h5co	C=C(C)[C]=O	! Confirmed by Pierre
+
+c3h5-s	[CH]=CC	! Confirmed by Pierre
+c3h5-t	C=[C]C	! Confirmed by Pierre
+
+c3h6o1-3	C1COC1	! Confirmed by Pierre
+c4h8ooh2-3	C[CH]C(C)OO	! Confirmed by Pierre
+ic4h8ooh-to2	CC(C)(COO)O[O]	! Confirmed by Pierre
+tc4h8ooh-io2	CC(C)(CO[O])OO	! Confirmed by Pierre
+c4h8o2-3	CC1OC1C	! Confirmed by Pierre
+c4h8ooh2-4	[CH2]CC(C)OO	! Confirmed by Pierre
+ch2och2o2h	[CH2]OCOO	! Confirmed by Pierre
+o2ch2och2o2h	[O]OCOCOO	! Confirmed by Pierre
+c4h8o1-3	CC1CCO1	! Confirmed by Pierre
+c3h6ooh1-3	[CH2]CCOO	! Confirmed by Pierre
+c3h6ooh1-3o2	[O]OCCCOO	! Confirmed by Pierre
+ic4ketit	CC(C)(C=O)OO	! Confirmed by Pierre
+c4h8ooh1-3	C[CH]CCOO	! Confirmed by Pierre
+c4h8ooh2-3o2	CC(O[O])C(C)OO	! Confirmed by Pierre
+c4h8ooh2-4o2	CC(CCO[O])OO	! Confirmed by Pierre
+c4h8ooh1-4	[CH2]CCCOO	! Confirmed by Pierre
+c4h8ooh1-3o2	CC(CCOO)O[O]	! Confirmed by Pierre
+c4h8ooh1-4o2	[O]OCCCCOO	! Confirmed by Pierre
+c4h8ooh2-1o2	CCC(CO[O])OO	! Confirmed by Pierre
+hoch2o2	[O]OCO	! Confirmed by Pierre
+nc4ket14	O=CCCCOO	! Confirmed by Pierre
+nc4ket13	CC(CC=O)OO	! Confirmed by Pierre
+ic4h6oh	[CH2]C(=C)CO	! Confirmed by Pierre
+ic4h7o	C=C(C)C[O]	! Confirmed by Pierre
+ic4h7oh	C=C(C)CO	! Confirmed by Pierre
+nc4ket23	CC(=O)C(C)OO	! Confirmed by Pierre
+nc4ket21	CCC(=O)COO	! Confirmed by Pierre
+nc4ket24	CC(=O)CCOO	! Confirmed by Pierre
+c4h8o1-4	C1CCOC1	! Confirmed by Pierre
+ic3h6co	CC(C)=C=O	! Confirmed by Pierre
+ch3chco	CC=C=O	! Confirmed by Pierre
+och2o2h	[O]COO	! Confirmed by Pierre
+ic4ketii	CC(C=O)COO	! Confirmed by Pierre
+tc3h6o2cho	CC(C)(C=O)O[O]	! Confirmed by Pierre
+ic3h5o2hcho	[CH2]C(C)(C=O)OO	! Confirmed by Pierre
+tc3h6o2hco	CC(C)([C]=O)OO	! Confirmed by Pierre
+c4h7o	C=CC(C)[O]	! Confirmed by Pierre
+c3h52-1,3ooh	OOC[CH]COO	! Confirmed by Pierre
+ac3h5ooh	C=CCOO	! Confirmed by Pierre
+sc3h5cho	CC=CC=O	! Confirmed by Pierre
+c3h6oh	[CH2]CCO	! Confirmed by Pierre
+hoc3h6o2	[O]OCCCO	! Confirmed by Pierre
+ic4h8o2h-i	[CH2]C(C)COO	! Confirmed by Pierre
+ic4h8ooh-io2	CC(CO[O])COO	! Confirmed by Pierre
+cc4h8o	CC1COC1	! Confirmed by Pierre
+iic4h7q2-i	[CH2]C(COO)COO	! Confirmed by Pierre
+iic4h7q2-t	C[C](COO)COO	! Confirmed by Pierre
+tc4h8cho	[CH2]C(C)(C)C=O	! Confirmed by Pierre
+ic4h8o	[CH2]C(C)C[O]	! Confirmed by Pierre
+ic4h7ooh	C=C(C)COO	! Confirmed by Pierre
+tic4h7q2-i	[CH2]C(C)(COO)OO	! Confirmed by Pierre
+o2c4h8cho	CC(C)(C=O)CO[O]	! Confirmed by Pierre
+o2hc4h8co	CC(C)([C]=O)COO	! Confirmed by Pierre
+hcoh	[CH]O	! Confirmed by Pierre
+cc3h4	C1=CC1	! Confirmed by Pierre
+sc3h5co	CC=C[C]=O	! Confirmed by Pierre
+h2c4o	C=C=C=C=O	! Confirmed by Pierre
+ic4h8oh	C[C](C)CO	! Confirmed by Pierre
+c4h6o25	C1=CCOC1	! Confirmed by Pierre
+

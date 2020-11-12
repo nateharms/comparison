@@ -1,0 +1,10 @@
+nc3h7coc2h3	C=CC(C=O)CC	! Blocked by Emily
+
+ic6h13coch2	CC(C)CC(C)C[C]=O	! Blocked by emily
+ic6h13coch2	C=[C]OC(C)CC(C)C	! Blocked by emily
+cc4h8o	C1CCOC1	! Blocked by Emily
+cc4h8o	C=C(C)OC	! Blocked by Emily
+cc4h8o	CC(C)C=O	! Blocked by Emily
+cc4h8o	CCCC=O	! Blocked by Emily
+cc4h8o	CCC(C)=O	! Blocked by Emily
+
