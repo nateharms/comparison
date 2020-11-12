@@ -1,0 +1,2 @@
+method = "m062x/cc-pVTZ"
+reaction = TemplateReaction(reactants=[Molecule(smiles="CC(O)CCO[O]")], products=[Molecule(smiles="[CH2]C(O)CCOO")], kinetics=Arrhenius(A=(0.0131923,'s^-1'), n=4.01196, Ea=(81.2477,'kJ/mol'), T0=(1,'K'), Tmin=(298,'K'), Tmax=(2500,'K'), comment="""Fitted to 50 data points; dA = *|/ 1, dn = +|- 7.4684e-15, dEa = +|- 4.06428e-14 kJ/mol; modified with AutoTST 1DHR approximation"""), pairs=[[Molecule(smiles="CC(O)CCO[O]"), Molecule(smiles="[CH2]C(O)CCOO")]], family='intra_H_migration', template=['R6H_SSSSS_OO', 'O_rad_out', 'Cs_H_out_2H'])
