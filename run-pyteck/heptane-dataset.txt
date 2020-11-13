@@ -1,0 +1,39 @@
+Herzler 2005/st_herzler_2005-1.yaml
+Herzler 2005/st_herzler_2005-4.yaml
+Herzler 2005/st_herzler_2005-2.yaml
+Herzler 2005/st_herzler_2005-3.yaml
+Colket 2001/st_colket_2001-1.yaml
+Colket 2001/st_colket_2001-2.yaml
+Horning 2002/st_horning_2002-5.yaml
+Horning 2002/st_horning_2002-9.yaml
+Horning 2002/st_horning_2002-8.yaml
+Horning 2002/st_horning_2002-4.yaml
+Horning 2002/st_horning_2002-10.yaml
+Horning 2002/st_horning_2002-3.yaml
+Horning 2002/st_horning_2002-2.yaml
+Horning 2002/st_horning_2002-11.yaml
+Horning 2002/st_horning_2002-12.yaml
+Horning 2002/st_horning_2002-1.yaml
+Horning 2002/st_horning_2002-13.yaml
+Horning 2002/st_horning_2002-7.yaml
+Horning 2002/st_horning_2002-14.yaml
+Horning 2002/st_horning_2002-6.yaml
+Vermeer 1972/st_vermeer_1972.yaml
+Smith et al. 2005/st_smith_2005-1.yaml
+Smith et al. 2005/st_smith_2005-4.yaml
+Smith et al. 2005/st_smith_2005-5.yaml
+Smith et al. 2005/st_smith_2005-2.yaml
+Smith et al. 2005/st_smith_2005-3.yaml
+Gauthier 2004/st_gauthier_2004-1.yaml
+Gauthier 2004/st_gauthier_2004-2.yaml
+Gauthier 2004/st_gauthier_2004-3.yaml
+Gauthier 2004/st_gauthier_2004-4.yaml
+Hartmann 2011/st_hartmann_2011-1.yaml
+Hartmann 2011/st_hartmann_2011-2.yaml
+Burcat 1981/st_burcat_1981-2.yaml
+Burcat 1981/st_burcat_1981-3.yaml
+Burcat 1981/st_burcat_1981-4.yaml
+Burcat 1981/st_burcat_1981-5.yaml
+Burcat 1981/st_burcat_1981-1.yaml
+Di Sante 2012/rcm_disante_2012-1.yaml
+Di Sante 2012/rcm_disante_2012-2.yaml

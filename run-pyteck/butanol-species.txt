@@ -1,0 +1,7498 @@
+---
+butanol.0.167.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.1.128.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.10.130.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.100.829.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.101.815.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.102.830.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.103.1442.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.104.283.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.105.545.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.106.547.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.107.486.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.108.489.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.109.284.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.11.133.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.110.487.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.111.1503.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.112.549.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.113.550.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.114.239.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.115.548.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.116.1525.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.117.713.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.118.416.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.119.309.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.12.129.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.120.1706.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.121.714.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.122.250.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.123.1712.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.124.1711.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.125.1708.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.126.715.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.127.716.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.128.1504.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.129.1707.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.13.117.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.130.322.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.131.1709.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.132.392.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.133.1705.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.134.504.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.135.503.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.136.781.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.137.1224.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.138.1225.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.139.780.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.14.118.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.140.307.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.141.498.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.142.497.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.143.453.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.144.225.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.145.451.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.146.230.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.147.2055.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.148.477.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.149.105.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.15.21.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.150.255.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.151.476.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.152.93.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.153.234.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.154.500.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.155.499.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.156.436.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.157.377.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.158.378.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.159.379.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.16.592.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.160.197.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.161.433.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.162.374.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.163.376.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.164.76.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.165.202.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.166.151.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.167.125.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.168.195.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.169.123.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.17.593.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.170.651.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.171.983.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.172.984.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.173.905.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.174.906.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.175.947.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.176.949.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.177.901.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.178.1180.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.179.1181.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.18.607.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.180.1412.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.181.1473.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.182.1489.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.183.1490.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.184.1203.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.185.1201.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.186.1202.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.187.1411.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.188.1466.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.189.1465.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.19.600.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.190.902.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.191.1703.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.192.1204.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.193.1178.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.194.1179.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.195.886.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.196.887.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.197.1200.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.198.1485.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.199.410.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.2.2.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.20.599.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.200.968-1214.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.201.967.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.202.564.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.203.507.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.204.506.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.205.835.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.206.1446.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.207.836.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.208.856.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.209.827.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.21.575.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.210.828.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.211.1445.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.212.660.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.213.1101.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.214.1386.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.215.1453.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.216.832.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.217.831.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.218.1896.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.219.1102.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.22.634.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.220.1103.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.221.1385.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.222.1387.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.223.1494-1876.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.224.855.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.225.1895.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.226.1613.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.227.1888.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.228.1467.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.229.1491.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.23.632.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.230.1495.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.231.1527.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.232.1598.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.233.1605.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.234.1884.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.235.1889.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.236.394.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.237.419.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.238.1602.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.239.1608.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.24.280.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.240.1611.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.241.1612.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.242.1873.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.243.1879.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.244.1880.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.245.1894.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.246.1872.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.247.1184.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.248.1153.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.249.1634.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.25.279.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.250.1646.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.251.1886.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.252.1885.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.253.1610.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.254.1609.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.255.1606.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.256.1154.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.257.1603.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.258.1875.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.259.1877.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.26.533.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.260.1604.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.261.1599.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.262.1881.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.263.1882.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.264.1887.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.265.1600.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.266.1890.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.267.1874.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.268.1155.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.269.1640.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.27.532.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.270.1607.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.271.1406.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.272.508.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.273.509.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.274.779.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.275.1227.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.276.1226.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.277.778.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.278.393.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.279.1235.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.28.526.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.280.1234.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.281.785.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.282.784.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.283.277.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.284.460.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.285.462.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.286.274.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.287.2064.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.288.478.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.289.479.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.29.554.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.290.444.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.291.240.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.292.1524.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.293.726.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.294.2058.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.295.725.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.296.721.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.297.720.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.298.719.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.299.728.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.3.337.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.30.555.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.300.391.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.301.551.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.302.718.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.303.512.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.304.513.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.305.1229.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.306.381.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.307.380.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.308.782.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.309.1750.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.31.556.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.310.1751.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.311.1772.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.312.1773.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.313.1775.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.314.1776.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.315.1828.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.316.1829.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.317.1827.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.318.1546.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.319.1830.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.32.320.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.320.1545.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.321.1544.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.322.1543.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.323.1547.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.324.475.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.325.2056.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.326.474.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.327.454.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.328.470.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.329.150.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.33.199.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.330.236.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.331.251.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.332.501.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.333.214.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.334.502.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.335.438.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.336.688.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.337.196.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.338.689.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.339.368.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.34.442.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.340.434.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.341.369.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.342.152.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.343.635.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.344.628.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.345.652.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.346.908.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.347.907.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.348.411.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.349.1515.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.35.246.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.350.1516.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.351.428.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.352.971.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.353.972-1211.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.354.1482.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.355.511.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.356.510.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.357.777.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.358.776.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.359.934.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.36.382.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.360.1212.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.361.412.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.362.936.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.363.1488.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.364.423.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.365.842.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.366.841.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.367.859.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.368.1160.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.369.1161.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.37.211.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.370.1187.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.371.1159.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.372.1649.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.373.1637.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.374.1401.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.375.1643.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.376.505.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.377.1230.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.378.775.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.379.1231.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.38.212.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.380.774.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.381.1641.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.382.1151.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.383.1150.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.384.1152.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.385.485.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.386.484.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.387.409.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.388.1973.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.389.2119.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.39.75.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.390.1115.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.391.1114.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.392.2120.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.393.566.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.394.1113.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.395.1122.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.396.395.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.397.1105.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.398.1104.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.399.1106.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.4.200.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.40.385.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.400.1975.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.401.1433.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.402.1434.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.403.1974.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.404.445.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.405.1415.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.406.2067.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.407.1108.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.408.1413.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.409.1414.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.41.311.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.410.1109.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.411.1107.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.412.857.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.413.837.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.414.1447.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.415.838.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.416.1407.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.417.1146.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.418.788.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.419.789.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.42.313.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.420.1237.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.421.1236.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.422.1844.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.423.1845.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.424.1846.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.425.1843.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.426.1759.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.427.1572.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.428.1758.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.429.1571.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.43.245.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.430.1796.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.431.1568.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.432.1795.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.433.1794.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.434.1570.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.435.1793.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.436.1569.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.437.1792.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.438.1239.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.439.1784.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.44.383.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.440.1783.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.441.1782.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.442.1754.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.443.1755.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.444.1785.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.445.1555.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.446.1554.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.447.1553.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.448.1836.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.449.41.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.45.312.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.450.213.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.451.263.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.452.310.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.453.397.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.454.481.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.455.480.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.456.420.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.457.237.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.458.2059.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.459.252.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.46.235.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.460.514.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.461.515.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.462.684.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.463.685.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.464.1371.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.465.1309.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.466.1051.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.467.217.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.468.1232.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.469.787.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.47.301.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.470.786.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.471.1233.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.472.1778.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.473.1779.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.474.472.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.475.2057.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.476.473.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.477.371.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.478.372.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.479.435.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.48.495.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.480.215.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.481.910.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.482.912.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.483.974.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.484.973.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.485.1450.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.486.1451.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.487.1452.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.488.844.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.489.537.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.49.496.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.490.1168.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.491.1169.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.492.1170.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.493.772.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.494.773.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.495.1498.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.496.1469.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.497.1497.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.498.536.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.499.535.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.5.298.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.50.194.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.500.1173.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.501.1172.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.502.1171.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.503.325.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.504.413.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.505.1176.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.506.1481.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.507.1210.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.508.1509.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.509.1507.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.51.191.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.510.1508.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.511.1175.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.512.568.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.513.1455.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.514.839.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.515.858.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.516.840.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.517.1164.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.518.1188.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.519.1163.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.52.78.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.520.1652.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.521.1801.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.522.1799.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.523.1763.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.524.1798.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.525.1847.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.526.1848.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.527.1573.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.528.1574.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.529.1575.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.53.94.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.530.1162.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.531.1576.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.532.1849.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.533.1850.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.534.1800.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.535.790.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.536.791.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.537.1821.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.538.1866.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.539.1863.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.54.432.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.540.1864.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.541.1819.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.542.1865.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.543.1817.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.544.1594.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.545.1595.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.546.1596.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.547.1769.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.548.1768.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.549.1597.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.55.362.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.550.1593.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.551.1513.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.552.264.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.553.1472.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.554.422.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.555.398.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.556.265.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.557.525.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.558.2068.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.559.672.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.56.364.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.560.674.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.561.524.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.562.1933.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.563.2223.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.564.2092.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.565.1940.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.566.2282.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.567.1939.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.568.1938.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.569.2283.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.57.363.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.570.2284.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.571.2285.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.572.1644.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.573.1936.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.574.1638.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.575.1935.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.576.1934.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.577.1930.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.578.1929.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.579.1928.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.58.192.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.580.2093.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.581.2172.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.582.1937.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.583.2232.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.584.1989.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.585.1990.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.586.2219.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.587.2218.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.588.2132.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.589.2131.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.59.124.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.590.2225.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.591.2130.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.592.2129.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.593.2226.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.594.2096.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.595.2095.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.596.2227.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.597.2094.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.598.2090.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.599.2089.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.6.132.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.60.119.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.600.1994.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.601.2231.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.602.2233.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.603.1993.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.604.1992.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.605.1991.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.606.1932.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.607.2220.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.608.1186.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.609.1193.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.61.201.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.610.1194.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.611.1148.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.612.1149.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.613.1195.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.614.1650.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.615.1400.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.616.1399.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.617.1308.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.618.517.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.619.516.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.62.131.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.620.1075.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.621.1076.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.622.1370.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.623.691.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.624.690.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.625.1253.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.626.1240.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.627.798.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.628.797.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.629.1578.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.63.991.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.630.1764.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.631.1765.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.632.1802.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.633.1803.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.634.1804.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.635.1806.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.636.1807.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.637.1760.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.638.1761.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.639.1858.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.64.1006.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.640.1587.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.641.1579.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.642.1857.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.643.1580.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.644.1581.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.645.1856.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.646.1855.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.647.1854.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.648.1808.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.649.1853.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.65.1005.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.650.1851.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.651.1582.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.652.1811.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.653.1583.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.654.1584.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.655.1585.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.656.1586.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.657.1852.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.658.1809.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.659.447.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.66.938.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.660.482.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.661.483.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.662.2066.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.663.440.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.664.2060.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.665.741.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.666.737.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.667.740.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.668.738.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.669.739.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.67.982.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.670.681.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.671.680.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.672.1790.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.673.1842.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.674.1565.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.675.1840.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.676.1789.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.677.1757.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.678.1566.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.679.1841.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.68.981.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.680.1788.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.681.1791.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.682.262.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.683.1522.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.684.792.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.685.1260.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.686.565.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.687.1448.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.688.1518.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.689.846.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.69.980.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.690.570.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.691.569.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.692.860.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.693.253.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.694.402.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.695.523.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.696.425.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.697.522.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.698.675.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.699.1038.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.7.91.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.70.920.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.700.1064.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.701.1326.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.702.673.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.703.1327.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.704.1247.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.705.795.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.706.796.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.707.1248.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.708.1198.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.709.1167.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.71.979.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.710.1189.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.711.1196.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.712.1197.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.713.1166.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.714.1645.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.715.1639.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.716.1409.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.717.1651.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.718.518.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.719.519.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.72.640.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.720.520.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.721.521.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.722.1254.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.723.799.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.724.800.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.725.1241.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.726.1372.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.727.1310.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.728.448.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.729.2069.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.73.627.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.730.1429.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.731.1424.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.732.1428.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.733.1423.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.734.1427.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.735.1426.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.736.1425.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.737.1375.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.738.1071.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.739.1313.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.74.869.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.740.1862.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.741.1589.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.742.1588.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.743.1591.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.744.1860.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.745.1861.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.746.1813.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.747.1815.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.748.1325.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.749.439.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.75.871.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.750.1324.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.751.1079.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.752.1520.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.753.1470.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.754.1499.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.755.683.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.756.682.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.757.843.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.758.1296.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.759.1290.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.76.870.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.760.847.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.761.848.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.762.1295.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.763.862.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.764.1289.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.765.861.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.766.427.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.767.1039.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.768.693.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.769.692.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.77.944.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.770.1065.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.771.1316.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.772.1317.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.773.1242.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.774.1255.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.775.793.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.776.794.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.777.806.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.778.805.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.779.1312.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.78.1461.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.780.1311.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.781.1373.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.782.1374.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.783.1244.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.784.1243.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.785.802.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.786.801.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.787.1257.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.788.1256.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.789.804.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.79.872.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.790.803.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.791.1377.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.792.1315.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.793.2247.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.794.1951.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.795.1952.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.796.1953.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.797.2176.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.798.1954.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.799.2106.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.8.98.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.80.892.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.800.2244.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.801.2245.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.802.2105.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.803.2104.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.804.1319.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.805.1318.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.806.1291.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.807.1292.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.808.864.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.809.863.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.81.913.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.810.850.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.811.849.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.812.1293.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.813.1300.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.814.1298.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.815.1294.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.816.401.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.817.1321.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.818.1055.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.819.1320.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.82.650.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.820.1249.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.821.1246.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.822.1245.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.823.811.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.824.1250.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.825.1252.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.826.1285.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.827.1258.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.828.1259.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.829.1283.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.83.638.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.830.1282.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.831.807.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.84.623.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.85.1532.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.86.747.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.87.399.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.88.1177.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.89.746.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.9.190.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.90.562.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.91.563.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.92.561.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.93.816.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.94.1267.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.95.1266.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.96.819.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.97.818.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.98.817.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+butanol.99.854.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
+master.cti: 
+    O2: "o2" 
+    N2: "n2" 
+    Ar: "ar" 
+    He: "he" 
+    CO2: "co2" 
+    H2O: "h2o" 
+    n-butanol: "nc4h9oh" 
+    
