@@ -3,3 +3,5 @@ run-pyteck/log-files/
 make-alternatives/.ipynb_checkpoints
 make-alternatives/__pycache__
 .DS_*
+
+*.pyc
