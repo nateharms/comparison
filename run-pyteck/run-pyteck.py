@@ -24,7 +24,7 @@ fuels = ['butanol', 'heptane', 'methylheptane']
 for fuel in fuels:
 
     model_path = os.path.join(current_dir, '..', 'alternatives', fuel)
-    models = np.array([f for f in os.listdir(model_path) if 'master' not in f])
+    models = np.array([f for f in os.listdir(model_path) if f not in ['.ipynb_checkpoints', 'master.cti']])
     if i == 833:
         model_to_run = os.path.join(model_path, 'master.cti')
     else:
